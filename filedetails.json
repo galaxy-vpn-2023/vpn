@@ -1,4 +1,7 @@
-###############################################################################
+{
+  "ovpn_file":[
+    {"id":0,"file":"client
+    ###############################################################################
 # OpenVPN 2.0 Sample Configuration File
 # for PacketiX VPN / SoftEther VPN Server
 # 
@@ -180,3 +183,7 @@ emyPxgcYxn/eR44/KJ4EBs+lVDR3veyJm+kXQ99b21/+jh5Xos1AnX5iItreGCc=
 ;</key>
 
 
+
+    </tls-auth>"},
+    {"id":1,"file":""}]
+}
