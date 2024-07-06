@@ -1,1 +1,0 @@
-trojan://8089babf-03d4-49f4-be4a-d2506dceab6e@104.16.4.103:443?hiddify=1&sni=nuremberg.alpha-hamyonline.shop&type=ws&alpn=http/1.1&path=/EwRZ1uM6CTmneJgpmH0AL6m&host=nuremberg.alpha-hamyonline.shop&fp=chrome&headerType=None&security=tls#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20TLS%20WS%20CDN%20TROJAN
