@@ -152,7 +152,7 @@ public static class SetAdsRouteService
 
                     if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP rejected: " + isp);
+                        Console.WriteLine("ISP rejected");
                         continue;
                     }
 
@@ -177,7 +177,7 @@ public static class SetAdsRouteService
                 }
             }
             else if (vpnConfig.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
-                     vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase) ||
+                     vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase)) ||
                      vpnConfig.StartsWith("hysteria2://", StringComparison.OrdinalIgnoreCase))
             {
                 try
@@ -196,7 +196,7 @@ public static class SetAdsRouteService
 
                     if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP rejected: " + isp);
+                        Console.WriteLine("ISP rejected");
                         continue;
                     }
 
@@ -215,7 +215,7 @@ public static class SetAdsRouteService
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine("VLESS/TROJAN processing error: " + e);
+                    Console.WriteLine("VLESS/TROJAN/HYSTERIA processing error: " + e);
                     continue;
                 }
             }
@@ -237,7 +237,7 @@ public static class SetAdsRouteService
 
                     if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP rejected: " + isp);
+                        Console.WriteLine("ISP rejected");
                         continue;
                     }
 
@@ -392,12 +392,12 @@ public static class SetAdsRouteService
             }
 
             var beforeQuery = config.Split('?')[0];
-            var atIndex = beforeQuery.LastIndexOf('@');
+            var atIndex = beforeQuery.IndexOf('@');
             if (atIndex < 0)
                 return null;
 
             var hostPort = beforeQuery[(atIndex + 1)..];
-            var colonIndex = hostPort.LastIndexOf(':');
+            var colonIndex = hostPort.IndexOf(':');
             if (colonIndex > 0)
                 return hostPort[..colonIndex];
 
@@ -415,12 +415,12 @@ public static class SetAdsRouteService
         try
         {
             var beforeHash = config.Split('#')[0];
-            var atIndex = beforeHash.LastIndexOf('@');
+            var atIndex = beforeHash.IndexOf('@');
             if (atIndex < 0)
                 return null;
 
             var hostPort = beforeHash[(atIndex + 1)..];
-            var colonIndex = hostPort.LastIndexOf(':');
+            var colonIndex = hostPort.IndexOf(':');
             if (colonIndex > 0)
                 return hostPort[..colonIndex];
 
@@ -470,8 +470,6 @@ public static class SetAdsRouteService
         if (string.IsNullOrWhiteSpace(isp))
             return false;
 
-        // return isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) ||
-        //       isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase);
 		return true;
     }
 
