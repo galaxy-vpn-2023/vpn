@@ -79,7 +79,8 @@ public static class SetAdsRouteService
         await RunProcessAsync(
             fileName: XrayKnifePath,
             arguments:
-                $"http -p -a 2000 -d 500 -u https://music.youtube.com/ -s -f \"{ValidTxtPath}\" -t 30 -x csv -o \"{ValidCsvPath}\"");
+                $"http -p -a 2000 -d 500 -u https://music.youtube.com/ -s -f \"{ValidTxtPath}\" -t 30 -x csv -o \"{ValidCsvPath}\""),
+                timeoutMs: 30 * 60 * 1000); // 30 minutes
 
         await UpdateConfigsAsync();
     }
