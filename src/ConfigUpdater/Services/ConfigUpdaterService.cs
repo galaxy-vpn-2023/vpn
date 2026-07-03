@@ -53,8 +53,7 @@ public static class SetAdsRouteService
             "https://raw.githubusercontent.com/barry-far/V2ray-config/main/All_Configs_base64_Sub.txt",
             "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt",
             "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/mixed_iran.txt",
-            "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix",
-            "https://raw.githubusercontent.com/galaxy-vpn-2023/vpn/refs/heads/main/configs.txt"
+            "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix"
         };
 
         foreach (var url in urls)
@@ -178,11 +177,12 @@ public static class SetAdsRouteService
                 }
             }
             else if (vpnConfig.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
-                     vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase))
+                     vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase)) ||
+                     vpnConfig.StartsWith("hysteria2://", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
-                    var routeHost = GetVlessOrTrojanRouteHost(vpnConfig);
+                    var routeHost = GetVlessOrTrojanOrHysteriaRouteHost(vpnConfig);
                     if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
@@ -318,9 +318,6 @@ public static class SetAdsRouteService
         if (string.IsNullOrWhiteSpace(config))
             return null;
 
-        // برای اینکه shell و argparse به‌هم نریزند:
-        // - backslash و quote را escape می‌کنیم
-        // - کل config را داخل دابل‌کوت به python می‌دهیم
         var escapedConfig = config
             .Replace("\\", "\\\\")
             .Replace("\"", "\\\"");
@@ -371,7 +368,7 @@ public static class SetAdsRouteService
         return string.IsNullOrWhiteSpace(add) ? null : add;
     }
 
-    private static string? GetVlessOrTrojanRouteHost(string config)
+    private static string? GetVlessOrTrojanOrHysteriaRouteHost(string config)
     {
         try
         {
@@ -408,7 +405,7 @@ public static class SetAdsRouteService
         }
         catch (Exception e)
         {
-            Console.WriteLine("GetVlessOrTrojanRouteHost error: " + e);
+            Console.WriteLine("GetVlessOrTrojanOrHysteriaRouteHost error: " + e);
             return null;
         }
     }
@@ -473,8 +470,9 @@ public static class SetAdsRouteService
         if (string.IsNullOrWhiteSpace(isp))
             return false;
 
-        return isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) ||
-               isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase);
+        // return isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) ||
+        //       isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase);
+		return true;
     }
 
     private static string CountryCodeToFlag(string countryCode)
