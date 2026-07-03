@@ -355,61 +355,69 @@ public static class SetAdsRouteService
     }
 
     private static async Task<(string? countryCode, string? flag, string? cityName, string? isp)> GetCountryInfoAsync(string url)
+{
+    if (string.IsNullOrWhiteSpace(url))
+        return (null, null, null, null);
+
+    if (GeoCache.TryGetValue(url, out var cached))
+        return cached;
+
+    const int flagOffset = 0x1F1E6;
+    const int asciiOffset = 0x41;
+
+    try
     {
-        if (string.IsNullOrWhiteSpace(url))
-            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-            return fail;
+        using var response = await HttpClient.GetAsync("http://ip-api.com/json/" + url);
+        Console.WriteLine("Country Info Response " + response);
 
-        if (GeoCache.TryGetValue(url, out var cached))
-            return cached;
-
-        const int flagOffset = 0x1F1E6;
-        const int asciiOffset = 0x41;
-
-        try
+        if (response.StatusCode != HttpStatusCode.OK)
         {
-            using var response = await HttpClient.GetAsync("http://ip-api.com/json/" + url);
-            Console.WriteLine("Country Info Response " + response);
-
-            if (response.StatusCode != HttpStatusCode.OK)
-            {
-                Console.WriteLine("Country Info Response Code " + response.StatusCode);
-                (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-                GeoCache[url] = fail;
-                return fail;
-            }
-
-            var json = await response.Content.ReadAsStringAsync();
-            dynamic responseJson = JObject.Parse(json);
-
-            if (!responseJson.status.ToString().Equals("success", StringComparison.OrdinalIgnoreCase))
-            {
-                Console.WriteLine("Country Info Response Status " + responseJson.status);
-                (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-                GeoCache[url] = fail;
-                return fail;
-            }
-
-            var countryCode = responseJson.countryCode.ToString();
-            var cityName = responseJson.city.ToString();
-            var isp = responseJson.isp.ToString();
-
-            var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
-            var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
-            var flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
-
-            var result = (countryCode, flag, cityName, isp);
-            GeoCache[url] = result;
-            return result;
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine(e);
+            Console.WriteLine("Country Info Response Code " + response.StatusCode);
             (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
             GeoCache[url] = fail;
             return fail;
         }
+
+        var json = await response.Content.ReadAsStringAsync();
+        dynamic responseJson = JObject.Parse(json);
+
+        if (!responseJson.status.ToString().Equals("success", StringComparison.OrdinalIgnoreCase))
+        {
+            Console.WriteLine("Country Info Response Status " + responseJson.status);
+            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
+            GeoCache[url] = fail;
+            return fail;
+        }
+
+        string? countryCode = responseJson.countryCode?.ToString();
+        string? cityName = responseJson.city?.ToString();
+        string? isp = responseJson.isp?.ToString();
+
+        if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Length < 2)
+        {
+            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
+            GeoCache[url] = fail;
+            return fail;
+        }
+
+        countryCode = countryCode.ToUpperInvariant();
+
+        var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
+        var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
+        string flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
+
+        (string? countryCode, string? flag, string? cityName, string? isp) result = (countryCode, flag, cityName, isp);
+        GeoCache[url] = result;
+        return result;
     }
+    catch (Exception e)
+    {
+        Console.WriteLine(e);
+        (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
+        GeoCache[url] = fail;
+        return fail;
+    }
+}
 
     private static async Task<string> RunProcessAsync(string fileName, string arguments, int timeoutMs = 120000)
     {
