@@ -311,25 +311,32 @@ public static class SetAdsRouteService
     }
 
     private static async Task<string?> ConvertConfigAsync(string config)
+{
+    try
     {
-        try
-        {
-            var tempConfigPath = Path.Combine(DataDir, "temp_config.txt");
-            await File.WriteAllTextAsync(tempConfigPath, config);
-
-            var output = await RunProcessAsync(
-                fileName: "python3",
-                arguments: $"\"{V2ray2JsonPath}\" \"{tempConfigPath}\"",
-                timeoutMs: 10000);
-
-            return output.Contains("_comment", StringComparison.OrdinalIgnoreCase) ? output : null;
-        }
-        catch (Exception e)
-        {
-            Console.WriteLine("ConvertConfigAsync error: " + e);
+        if (string.IsNullOrWhiteSpace(config))
             return null;
-        }
+
+        // برای اینکه shell و argparse به‌هم نریزند:
+        // - backslash و quote را escape می‌کنیم
+        // - کل config را داخل دابل‌کوت به python می‌دهیم
+        var escapedConfig = config
+            .Replace("\\", "\\\\")
+            .Replace("\"", "\\\"");
+
+        var output = await RunProcessAsync(
+            fileName: "python3",
+            arguments: $"\"{V2ray2JsonPath}\" \"{escapedConfig}\"",
+            timeoutMs: 10000);
+
+        return output.Contains("_comment", StringComparison.OrdinalIgnoreCase) ? output : null;
     }
+    catch (Exception e)
+    {
+        Console.WriteLine("ConvertConfigAsync error: " + e);
+        return null;
+    }
+}
 
     private static JObject? DecodeVmessJson(string vmessConfig)
     {
