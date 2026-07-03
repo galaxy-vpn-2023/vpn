@@ -17,10 +17,7 @@ public static class SetAdsRouteService
     private static readonly string TempTxtPath = Path.Combine(DataDir, "temp.txt");
     private static readonly string ValidCsvPath = Path.Combine(DataDir, "valid.csv");
 
-    // اگر فایل باینری xray-knife را در tools گذاشتی، این مسیر درست است
     private static readonly string XrayKnifePath = Path.Combine(ToolsDir, "xray-knife");
-
-    // فایل python را هم در tools قرار بده
     private static readonly string V2ray2JsonPath = Path.Combine(ToolsDir, "v2ray2json.py");
 
     private static readonly HttpClient HttpClient = new()
@@ -28,7 +25,15 @@ public static class SetAdsRouteService
         Timeout = TimeSpan.FromSeconds(20)
     };
 
-    private static readonly Dictionary<string, (string? countryCode, string? flag, string? cityName, string? isp)> GeoCache = new();
+    private static readonly Dictionary<string, GeoInfo> GeoCache = new(StringComparer.OrdinalIgnoreCase);
+
+    private sealed class GeoInfo
+    {
+        public string? CountryCode { get; init; }
+        public string? Flag { get; init; }
+        public string? CityName { get; init; }
+        public string? Isp { get; init; }
+    }
 
     public static async Task RunOnceAsync()
     {
@@ -54,6 +59,8 @@ public static class SetAdsRouteService
 
         foreach (var url in urls)
         {
+            Console.WriteLine($"Fetching configs from: {url}");
+
             await RunProcessAsync(
                 fileName: XrayKnifePath,
                 arguments: $"subs fetch -u \"{url}\" -o \"{TempTxtPath}\"");
@@ -67,19 +74,18 @@ public static class SetAdsRouteService
             await File.WriteAllTextAsync(ValidTxtPath, currentValid + tempContent);
         }
 
+        Console.WriteLine("Testing configs with xray-knife...");
+
         await RunProcessAsync(
             fileName: XrayKnifePath,
             arguments:
-            $"http -p -a 2000 -d 500 -u https://music.youtube.com/ -s -f \"{ValidTxtPath}\" -t 30 -x csv -o \"{ValidCsvPath}\"");
+                $"http -p -a 2000 -d 500 -u https://music.youtube.com/ -s -f \"{ValidTxtPath}\" -t 30 -x csv -o \"{ValidCsvPath}\"");
 
         await UpdateConfigsAsync();
     }
 
     private static async Task UpdateConfigsAsync()
     {
-        const int flagOffset = 0x1F1E6;
-        const int asciiOffset = 0x41;
-
         string? bestsVpnConfigs = null;
         string? netherlandsVpnConfigs = null;
         string? germanyVpnConfigs = null;
@@ -101,18 +107,21 @@ public static class SetAdsRouteService
 
         while (await reader.ReadLineAsync() is { } line)
         {
-            if (!line.Contains("passed"))
+            if (!line.Contains("passed", StringComparison.OrdinalIgnoreCase))
                 continue;
 
             var parts = line.Split(',');
             if (parts.Length < 10)
                 continue;
 
-            var vpnConfig = parts[0];
-            if (vpnConfig.Length < 10)
+            var vpnConfig = parts[0]?.Trim();
+            if (string.IsNullOrWhiteSpace(vpnConfig) || vpnConfig.Length < 10)
                 continue;
 
-            var configForValidation = vpnConfig.Contains("vmess://") ? vpnConfig : vpnConfig.Split('#')[0];
+            var configForValidation = vpnConfig.Contains("vmess://", StringComparison.OrdinalIgnoreCase)
+                ? vpnConfig
+                : vpnConfig.Split('#')[0];
+
             if (await ConvertConfigAsync(configForValidation) == null)
                 continue;
 
@@ -121,153 +130,132 @@ public static class SetAdsRouteService
             string? countryCode = null;
             string? isp = null;
 
-            if (vpnConfig.Contains("vmess://"))
+            if (vpnConfig.StartsWith("vmess://", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
-                    if (!IsBase64String(vpnConfig.Replace("vmess://", "")))
+                    var vmessJson = DecodeVmessJson(vpnConfig);
+                    if (vmessJson == null)
                         continue;
 
-                    vpnConfig = Encoding.UTF8.GetString(Convert.FromBase64String(vpnConfig.Replace("vmess://", "")));
-                    dynamic t = JObject.Parse(vpnConfig);
-
-                    string url;
-                    if (!object.ReferenceEquals(t.sni, null))
-                        url = t.sni.ToString();
-                    else if (!object.ReferenceEquals(t.host, null))
-                        url = t.host.ToString();
-                    else
-                        url = t.add.ToString();
-
-                    var countryInfo = await GetCountryInfoAsync(url);
-                    isp = countryInfo.isp;
-
-                    countryCode = parts[9];
-
-                    if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Equals("null", StringComparison.OrdinalIgnoreCase) ||
-                        countryCode.Equals("ru", StringComparison.OrdinalIgnoreCase))
+                    var routeHost = GetVmessRouteHost(vmessJson);
+                    if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    if (isp == null ||
-                        (!isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) &&
-                         !isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase)))
+                    var countryInfo = await GetCountryInfoAsync(routeHost);
+                    isp = countryInfo.Isp;
+
+                    countryCode = NormalizeCountryCode(parts[9]);
+
+                    if (ShouldSkipCountry(countryCode))
+                        continue;
+
+                    if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP: " + isp);
+                        Console.WriteLine("ISP rejected: " + isp);
                         continue;
                     }
 
-                    Console.WriteLine("ISP: " + isp);
+                    Console.WriteLine("ISP accepted: " + isp);
 
-                    var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
-                    var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
-                    var flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
-
-                    if (parts.Length > 4 && parts[4] != "null")
+                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
                     {
                         await Task.Delay(500);
                         countryInfo = await GetCountryInfoAsync(parts[4]);
                     }
 
-                    t.ps = flag + " " + countryInfo.cityName;
-                    vpnConfig = "vmess://" + Convert.ToBase64String(Encoding.UTF8.GetBytes(t.ToString()));
+                    var flag = CountryCodeToFlag(countryCode!);
+                    var city = countryInfo.CityName ?? string.Empty;
+
+                    vmessJson["ps"] = $"{flag} {city}".Trim();
+                    vpnConfig = "vmess://" + Convert.ToBase64String(Encoding.UTF8.GetBytes(vmessJson.ToString()));
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e);
+                    Console.WriteLine("VMESS processing error: " + e);
                     continue;
                 }
             }
-            else if (vpnConfig.Contains("vless://") || vpnConfig.Contains("trojan://"))
+            else if (vpnConfig.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
+                     vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
-                    var queryPart = vpnConfig.Split('?')[1].Split('#')[0];
-                    var paramsCollection = HttpUtility.ParseQueryString(queryPart);
-
-                    string url;
-                    if (paramsCollection.Get("sni") != null)
-                        url = paramsCollection.Get("sni")!;
-                    else if (paramsCollection.Get("host") != null)
-                        url = paramsCollection.Get("host")!;
-                    else
-                        url = vpnConfig.Split('?')[0].Split('@')[1].Split(':')[0];
-
-                    var countryInfo = await GetCountryInfoAsync(url);
-                    isp = countryInfo.isp;
-
-                    countryCode = parts[9];
-
-                    if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Equals("null", StringComparison.OrdinalIgnoreCase) ||
-                        countryCode.Equals("ru", StringComparison.OrdinalIgnoreCase))
+                    var routeHost = GetVlessOrTrojanRouteHost(vpnConfig);
+                    if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    if (isp == null ||
-                        (!isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) &&
-                         !isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase)))
+                    var countryInfo = await GetCountryInfoAsync(routeHost);
+                    isp = countryInfo.Isp;
+
+                    countryCode = NormalizeCountryCode(parts[9]);
+
+                    if (ShouldSkipCountry(countryCode))
+                        continue;
+
+                    if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP: " + isp);
+                        Console.WriteLine("ISP rejected: " + isp);
                         continue;
                     }
 
-                    Console.WriteLine("ISP: " + isp);
+                    Console.WriteLine("ISP accepted: " + isp);
 
-                    var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
-                    var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
-                    var flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
-
-                    if (parts.Length > 4 && parts[4] != "null")
+                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
                     {
                         await Task.Delay(500);
                         countryInfo = await GetCountryInfoAsync(parts[4]);
                     }
 
-                    vpnConfig = vpnConfig.Split('#')[0] + "#" + flag + " " + countryInfo.cityName;
+                    var flag = CountryCodeToFlag(countryCode!);
+                    var city = countryInfo.CityName ?? string.Empty;
+
+                    vpnConfig = vpnConfig.Split('#')[0] + "#" + $"{flag} {city}".Trim();
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e);
+                    Console.WriteLine("VLESS/TROJAN processing error: " + e);
                     continue;
                 }
             }
-            else if (vpnConfig.Contains("ss://"))
+            else if (vpnConfig.StartsWith("ss://", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
-                    var url = vpnConfig.Split('@')[1].Split('#')[0].Split(':')[0];
-                    var countryInfo = await GetCountryInfoAsync(url);
-                    isp = countryInfo.isp;
-
-                    countryCode = parts[9];
-
-                    if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Equals("null", StringComparison.OrdinalIgnoreCase) ||
-                        countryCode.Equals("ru", StringComparison.OrdinalIgnoreCase))
+                    var routeHost = GetShadowsocksRouteHost(vpnConfig);
+                    if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    if (isp == null ||
-                        (!isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) &&
-                         !isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase)))
+                    var countryInfo = await GetCountryInfoAsync(routeHost);
+                    isp = countryInfo.Isp;
+
+                    countryCode = NormalizeCountryCode(parts[9]);
+
+                    if (ShouldSkipCountry(countryCode))
+                        continue;
+
+                    if (!IsAllowedIsp(isp))
                     {
-                        Console.WriteLine("ISP: " + isp);
+                        Console.WriteLine("ISP rejected: " + isp);
                         continue;
                     }
 
-                    Console.WriteLine("ISP: " + isp);
+                    Console.WriteLine("ISP accepted: " + isp);
 
-                    var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
-                    var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
-                    var flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
-
-                    if (parts.Length > 4 && parts[4] != "null")
+                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
                     {
                         await Task.Delay(500);
                         countryInfo = await GetCountryInfoAsync(parts[4]);
                     }
 
-                    vpnConfig = vpnConfig.Split('#')[0] + "#" + flag + " " + countryInfo.cityName;
+                    var flag = CountryCodeToFlag(countryCode!);
+                    var city = countryInfo.CityName ?? string.Empty;
+
+                    vpnConfig = vpnConfig.Split('#')[0] + "#" + $"{flag} {city}".Trim();
                 }
                 catch (Exception e)
                 {
-                    Console.WriteLine(e);
+                    Console.WriteLine("SS processing error: " + e);
                     continue;
                 }
             }
@@ -276,7 +264,7 @@ public static class SetAdsRouteService
                 continue;
             }
 
-            if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Equals("null", StringComparison.OrdinalIgnoreCase))
+            if (string.IsNullOrWhiteSpace(countryCode))
                 continue;
 
             AppendUnique(ref bestsVpnConfigs, vpnConfig);
@@ -307,7 +295,7 @@ public static class SetAdsRouteService
             }
 
             configNum++;
-            Console.WriteLine("Config " + configNum + " Added");
+            Console.WriteLine($"Config {configNum} added");
         }
 
         await WriteIfNotNullAsync("Bests.txt", bestsVpnConfigs);
@@ -319,23 +307,123 @@ public static class SetAdsRouteService
         await WriteIfNotNullAsync("France.txt", franceVpnConfigs);
         await WriteIfNotNullAsync("Spain.txt", spainVpnConfigs);
 
-        Console.WriteLine("Update Configs Finished");
+        Console.WriteLine("Update configs finished.");
     }
 
     private static async Task<string?> ConvertConfigAsync(string config)
     {
         try
         {
+            var tempConfigPath = Path.Combine(DataDir, "temp_config.txt");
+            await File.WriteAllTextAsync(tempConfigPath, config);
+
             var output = await RunProcessAsync(
                 fileName: "python3",
-                arguments: $"\"{V2ray2JsonPath}\" \"{EscapeForShellArg(config)}\"",
-                timeoutMs: 5000);
+                arguments: $"\"{V2ray2JsonPath}\" \"{tempConfigPath}\"",
+                timeoutMs: 10000);
 
-            return output.Contains("_comment") ? output : null;
+            return output.Contains("_comment", StringComparison.OrdinalIgnoreCase) ? output : null;
         }
         catch (Exception e)
         {
-            Console.WriteLine(e);
+            Console.WriteLine("ConvertConfigAsync error: " + e);
+            return null;
+        }
+    }
+
+    private static JObject? DecodeVmessJson(string vmessConfig)
+    {
+        try
+        {
+            var raw = vmessConfig.Replace("vmess://", "", StringComparison.OrdinalIgnoreCase).Trim();
+            if (!IsBase64String(raw))
+                return null;
+
+            var json = Encoding.UTF8.GetString(Convert.FromBase64String(raw));
+            return JObject.Parse(json);
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("DecodeVmessJson error: " + e);
+            return null;
+        }
+    }
+
+    private static string? GetVmessRouteHost(JObject vmessJson)
+    {
+        var sni = vmessJson["sni"]?.ToString();
+        if (!string.IsNullOrWhiteSpace(sni))
+            return sni;
+
+        var host = vmessJson["host"]?.ToString();
+        if (!string.IsNullOrWhiteSpace(host))
+            return host;
+
+        var add = vmessJson["add"]?.ToString();
+        return string.IsNullOrWhiteSpace(add) ? null : add;
+    }
+
+    private static string? GetVlessOrTrojanRouteHost(string config)
+    {
+        try
+        {
+            var questionIndex = config.IndexOf('?');
+            if (questionIndex >= 0)
+            {
+                var afterQuestion = config[(questionIndex + 1)..];
+                var hashIndex = afterQuestion.IndexOf('#');
+                if (hashIndex >= 0)
+                    afterQuestion = afterQuestion[..hashIndex];
+
+                var paramsCollection = HttpUtility.ParseQueryString(afterQuestion);
+
+                var sni = paramsCollection.Get("sni");
+                if (!string.IsNullOrWhiteSpace(sni))
+                    return sni;
+
+                var host = paramsCollection.Get("host");
+                if (!string.IsNullOrWhiteSpace(host))
+                    return host;
+            }
+
+            var beforeQuery = config.Split('?')[0];
+            var atIndex = beforeQuery.LastIndexOf('@');
+            if (atIndex < 0)
+                return null;
+
+            var hostPort = beforeQuery[(atIndex + 1)..];
+            var colonIndex = hostPort.LastIndexOf(':');
+            if (colonIndex > 0)
+                return hostPort[..colonIndex];
+
+            return hostPort;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("GetVlessOrTrojanRouteHost error: " + e);
+            return null;
+        }
+    }
+
+    private static string? GetShadowsocksRouteHost(string config)
+    {
+        try
+        {
+            var beforeHash = config.Split('#')[0];
+            var atIndex = beforeHash.LastIndexOf('@');
+            if (atIndex < 0)
+                return null;
+
+            var hostPort = beforeHash[(atIndex + 1)..];
+            var colonIndex = hostPort.LastIndexOf(':');
+            if (colonIndex > 0)
+                return hostPort[..colonIndex];
+
+            return hostPort;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("GetShadowsocksRouteHost error: " + e);
             return null;
         }
     }
@@ -347,77 +435,116 @@ public static class SetAdsRouteService
             var buffer = new Span<byte>(new byte[base64.Length]);
             return Convert.TryFromBase64String(base64, buffer, out _);
         }
-        catch (Exception e)
+        catch
         {
-            Console.WriteLine(e);
             return false;
         }
     }
 
-    private static async Task<(string? countryCode, string? flag, string? cityName, string? isp)> GetCountryInfoAsync(string url)
-{
-    if (string.IsNullOrWhiteSpace(url))
-        return (null, null, null, null);
-
-    if (GeoCache.TryGetValue(url, out var cached))
-        return cached;
-
-    const int flagOffset = 0x1F1E6;
-    const int asciiOffset = 0x41;
-
-    try
+    private static bool ShouldSkipCountry(string? countryCode)
     {
-        using var response = await HttpClient.GetAsync("http://ip-api.com/json/" + url);
-        Console.WriteLine("Country Info Response " + response);
-
-        if (response.StatusCode != HttpStatusCode.OK)
-        {
-            Console.WriteLine("Country Info Response Code " + response.StatusCode);
-            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-            GeoCache[url] = fail;
-            return fail;
-        }
-
-        var json = await response.Content.ReadAsStringAsync();
-        dynamic responseJson = JObject.Parse(json);
-
-        if (!responseJson.status.ToString().Equals("success", StringComparison.OrdinalIgnoreCase))
-        {
-            Console.WriteLine("Country Info Response Status " + responseJson.status);
-            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-            GeoCache[url] = fail;
-            return fail;
-        }
-
-        string? countryCode = responseJson.countryCode?.ToString();
-        string? cityName = responseJson.city?.ToString();
-        string? isp = responseJson.isp?.ToString();
-
-        if (string.IsNullOrWhiteSpace(countryCode) || countryCode.Length < 2)
-        {
-            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-            GeoCache[url] = fail;
-            return fail;
-        }
-
-        countryCode = countryCode.ToUpperInvariant();
-
-        var firstChar = char.ConvertToUtf32(countryCode, 0) - asciiOffset + flagOffset;
-        var secondChar = char.ConvertToUtf32(countryCode, 1) - asciiOffset + flagOffset;
-        string flag = char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
-
-        (string? countryCode, string? flag, string? cityName, string? isp) result = (countryCode, flag, cityName, isp);
-        GeoCache[url] = result;
-        return result;
+        return string.IsNullOrWhiteSpace(countryCode) ||
+               string.Equals(countryCode, "null", StringComparison.OrdinalIgnoreCase) ||
+               string.Equals(countryCode, "ru", StringComparison.OrdinalIgnoreCase);
     }
-    catch (Exception e)
+
+    private static string? NormalizeCountryCode(string? value)
     {
-        Console.WriteLine(e);
-        (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
-        GeoCache[url] = fail;
-        return fail;
+        if (string.IsNullOrWhiteSpace(value))
+            return null;
+
+        var trimmed = value.Trim();
+        if (trimmed.Length < 2)
+            return null;
+
+        return trimmed.ToLowerInvariant();
     }
-}
+
+    private static bool IsAllowedIsp(string? isp)
+    {
+        if (string.IsNullOrWhiteSpace(isp))
+            return false;
+
+        return isp.Contains("cloudflare", StringComparison.OrdinalIgnoreCase) ||
+               isp.Contains("asiatech", StringComparison.OrdinalIgnoreCase);
+    }
+
+    private static string CountryCodeToFlag(string countryCode)
+    {
+        const int flagOffset = 0x1F1E6;
+        const int asciiOffset = 0x41;
+
+        var cc = countryCode.ToUpperInvariant();
+        if (cc.Length < 2)
+            return string.Empty;
+
+        var firstChar = char.ConvertToUtf32(cc, 0) - asciiOffset + flagOffset;
+        var secondChar = char.ConvertToUtf32(cc, 1) - asciiOffset + flagOffset;
+        return char.ConvertFromUtf32(firstChar) + char.ConvertFromUtf32(secondChar);
+    }
+
+    private static async Task<GeoInfo> GetCountryInfoAsync(string url)
+    {
+        if (string.IsNullOrWhiteSpace(url))
+            return new GeoInfo();
+
+        if (GeoCache.TryGetValue(url, out var cached))
+            return cached;
+
+        try
+        {
+            using var response = await HttpClient.GetAsync("http://ip-api.com/json/" + url);
+            Console.WriteLine("Country info response: " + response.StatusCode);
+
+            if (response.StatusCode != HttpStatusCode.OK)
+            {
+                var fail = new GeoInfo();
+                GeoCache[url] = fail;
+                return fail;
+            }
+
+            var json = await response.Content.ReadAsStringAsync();
+            var obj = JObject.Parse(json);
+
+            var status = obj["status"]?.ToString();
+            if (!string.Equals(status, "success", StringComparison.OrdinalIgnoreCase))
+            {
+                Console.WriteLine("Country info status: " + status);
+                var fail = new GeoInfo();
+                GeoCache[url] = fail;
+                return fail;
+            }
+
+            string? countryCode = obj["countryCode"]?.ToString();
+            string? cityName = obj["city"]?.ToString();
+            string? isp = obj["isp"]?.ToString();
+
+            string? flag = null;
+            if (!string.IsNullOrWhiteSpace(countryCode) && countryCode.Length >= 2)
+            {
+                countryCode = countryCode.ToUpperInvariant();
+                flag = CountryCodeToFlag(countryCode);
+            }
+
+            var result = new GeoInfo
+            {
+                CountryCode = countryCode,
+                Flag = flag,
+                CityName = cityName,
+                Isp = isp
+            };
+
+            GeoCache[url] = result;
+            return result;
+        }
+        catch (Exception e)
+        {
+            Console.WriteLine("GetCountryInfoAsync error: " + e);
+            var fail = new GeoInfo();
+            GeoCache[url] = fail;
+            return fail;
+        }
+    }
 
     private static async Task<string> RunProcessAsync(string fileName, string arguments, int timeoutMs = 120000)
     {
@@ -427,6 +554,7 @@ public static class SetAdsRouteService
             UseShellExecute = false,
             RedirectStandardOutput = true,
             RedirectStandardError = true,
+            CreateNoWindow = true,
             Arguments = arguments
         };
 
@@ -437,8 +565,10 @@ public static class SetAdsRouteService
         var stdOutTask = process.StandardOutput.ReadToEndAsync();
         var stdErrTask = process.StandardError.ReadToEndAsync();
 
-        var exited = process.WaitForExit(timeoutMs);
-        if (!exited)
+        var waitTask = process.WaitForExitAsync();
+        var completed = await Task.WhenAny(waitTask, Task.Delay(timeoutMs));
+
+        if (completed != waitTask)
         {
             try
             {
@@ -458,7 +588,8 @@ public static class SetAdsRouteService
         if (process.ExitCode != 0)
         {
             Console.WriteLine($"Process failed: {fileName} {arguments}");
-            Console.WriteLine(stdErr);
+            if (!string.IsNullOrWhiteSpace(stdErr))
+                Console.WriteLine(stdErr);
         }
 
         return stdOut;
@@ -466,13 +597,16 @@ public static class SetAdsRouteService
 
     private static void AppendUnique(ref string? target, string value)
     {
+        if (string.IsNullOrWhiteSpace(value))
+            return;
+
         if (target == null)
         {
             target = value + Environment.NewLine;
             return;
         }
 
-        if (!target.Contains(value))
+        if (!target.Contains(value, StringComparison.Ordinal))
             target += value + Environment.NewLine;
     }
 
@@ -483,10 +617,5 @@ public static class SetAdsRouteService
 
         var path = Path.Combine(OutputDir, fileName);
         await File.WriteAllTextAsync(path, content);
-    }
-
-    private static string EscapeForShellArg(string value)
-    {
-        return value.Replace("\"", "\\\"");
     }
 }
