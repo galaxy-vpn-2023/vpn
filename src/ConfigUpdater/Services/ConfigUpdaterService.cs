@@ -357,7 +357,8 @@ public static class SetAdsRouteService
     private static async Task<(string? countryCode, string? flag, string? cityName, string? isp)> GetCountryInfoAsync(string url)
     {
         if (string.IsNullOrWhiteSpace(url))
-            return (null, null, null, null);
+            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
+            return fail;
 
         if (GeoCache.TryGetValue(url, out var cached))
             return cached;
@@ -373,7 +374,7 @@ public static class SetAdsRouteService
             if (response.StatusCode != HttpStatusCode.OK)
             {
                 Console.WriteLine("Country Info Response Code " + response.StatusCode);
-                var fail = (null, null, null, null);
+                (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
                 GeoCache[url] = fail;
                 return fail;
             }
@@ -384,7 +385,7 @@ public static class SetAdsRouteService
             if (!responseJson.status.ToString().Equals("success", StringComparison.OrdinalIgnoreCase))
             {
                 Console.WriteLine("Country Info Response Status " + responseJson.status);
-                var fail = (null, null, null, null);
+                (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
                 GeoCache[url] = fail;
                 return fail;
             }
@@ -404,7 +405,7 @@ public static class SetAdsRouteService
         catch (Exception e)
         {
             Console.WriteLine(e);
-            var fail = (null, null, null, null);
+            (string? countryCode, string? flag, string? cityName, string? isp) fail = (null, null, null, null);
             GeoCache[url] = fail;
             return fail;
         }
