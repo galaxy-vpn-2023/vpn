@@ -13,35 +13,46 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout repository
         uses: actions/checkout@v4
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '8.0.x'
+          dotnet-version: "8.0.x"
 
       - name: Setup Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
+          python-version: "3.11"
 
-      - name: Make xray-knife executable
-        run: chmod +x tools/xray-knife
+      - name: Install unzip
+        run: sudo apt-get update && sudo apt-get install -y unzip
+
+      - name: Prepare tools directory
+        run: mkdir -p tools data output
+
+      - name: Download and extract xray-knife
+        run: |
+          curl -L -o /tmp/xray-knife.zip "https://github.com/lilendian0x00/xray-knife/releases/download/v10.0.0/Xray-knife-linux-64.zip"
+          unzip -o /tmp/xray-knife.zip -d /tmp/xray-knife
+          find /tmp/xray-knife -type f -name "xray-knife" -exec cp {} tools/xray-knife \;
+          chmod +x tools/xray-knife
+          tools/xray-knife --help || true
 
       - name: Run updater
         run: dotnet run --project src/ConfigUpdater/ConfigUpdater.csproj
 
-      - name: Commit output
+      - name: Commit and push output files
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add output/*.txt data/*.csv data/*.txt || true
+          git add output/*.txt data/*.txt data/*.csv || true
 
           if git diff --cached --quiet; then
-            echo "No changes"
+            echo "No changes to commit"
           else
-            git commit -m "Auto update configs"
+            git commit -m "Auto update VPN configs"
             git push
           fi
