@@ -316,29 +316,25 @@ public static class SetAdsRouteService
     }
 
     private static async Task<string?> ConvertConfigAsync(string config)
-{
-    try
-    {
-        if (string.IsNullOrWhiteSpace(config))
-            return null;
+	{
+    	try
+    	{
+        	if (string.IsNullOrWhiteSpace(config))
+            	return null;
 
-        var escapedConfig = config
-            .Replace("\\", "\\\\")
-            .Replace("\"", "\\\"");
+        	var output = await RunProcessAsync(
+            	fileName: "python3",
+            	arguments: $"\"{V2ray2JsonPath}\" \"{config}\"",
+            	timeoutMs: 10000);
 
-        var output = await RunProcessAsync(
-            fileName: "python3",
-            arguments: $"\"{V2ray2JsonPath}\" \"{escapedConfig}\"",
-            timeoutMs: 10000);
-
-        return output.Contains("_comment", StringComparison.OrdinalIgnoreCase) ? output : null;
-    }
-    catch (Exception e)
-    {
-        Console.WriteLine("ConvertConfigAsync error: " + e);
-        return null;
-    }
-}
+        	return output.Contains("_comment", StringComparison.OrdinalIgnoreCase) ? output : null;
+    	}
+    	catch (Exception e)
+    	{
+        	Console.WriteLine("ConvertConfigAsync error: " + e);
+        	return null;
+    	}
+	}
 
     private static JObject? DecodeVmessJson(string vmessConfig)
     {
