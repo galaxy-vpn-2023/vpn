@@ -107,14 +107,17 @@ public static class SetAdsRouteService
 
         while (await reader.ReadLineAsync() is { } line)
         {
-            if (!line.Contains("passed", StringComparison.OrdinalIgnoreCase))
-                continue;
-
             var parts = line.Split(',');
             if (parts.Length < 10)
                 continue;
 
             var vpnConfig = parts[0]?.Trim();
+
+			if (!line.Contains("passed", StringComparison.OrdinalIgnoreCase) &&
+				!vpnConfig.Contains("hy2://", StringComparison.OrdinalIgnoreCase) &&
+				!vpnConfig.Contains("hysteria2://", StringComparison.OrdinalIgnoreCase))
+                continue;
+			
             if (string.IsNullOrWhiteSpace(vpnConfig) || vpnConfig.Length < 10)
                 continue;
 
