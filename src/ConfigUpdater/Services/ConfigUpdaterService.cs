@@ -51,8 +51,8 @@ public static class SetAdsRouteService
         string[] urls =
         {
             "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
-            "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/refs/heads/main/all_configs.txt",
-            "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/mixed_iran.txt",
+            "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub5.txt",
+            "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/ss_iran.txt",
             "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix"
         };
 
