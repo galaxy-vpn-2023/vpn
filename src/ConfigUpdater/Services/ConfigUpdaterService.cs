@@ -148,9 +148,16 @@ public static class SetAdsRouteService
                     var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
 
-                    countryCode = NormalizeCountryCode(parts[9]);
+					if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
+					{
+						countryCode = NormalizeCountryCode(parts[9]);
+					}
+					else
+					{
+						countryCode = countryInfo.CountryCode;
+					}
 
-                    if (ShouldSkipCountry(countryCode))
+					if (ShouldSkipCountry(countryCode))
                         continue;
 
                     if (!IsAllowedIsp(isp))
@@ -193,7 +200,14 @@ public static class SetAdsRouteService
                     var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
 
-                    countryCode = NormalizeCountryCode(parts[9]);
+                    if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
+					{
+						countryCode = NormalizeCountryCode(parts[9]);
+					}
+					else
+					{
+						countryCode = countryInfo.CountryCode;
+					}
 
                     if (ShouldSkipCountry(countryCode))
                         continue;
@@ -234,7 +248,14 @@ public static class SetAdsRouteService
                     var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
 
-                    countryCode = NormalizeCountryCode(parts[9]);
+                    if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
+					{
+						countryCode = NormalizeCountryCode(parts[9]);
+					}
+					else
+					{
+						countryCode = countryInfo.CountryCode;
+					}
 
                     if (ShouldSkipCountry(countryCode))
                         continue;
