@@ -125,7 +125,9 @@ public static class SetAdsRouteService
                 ? vpnConfig
                 : vpnConfig.Split('#')[0];
 
-            if (await ConvertConfigAsync(configForValidation) == null)
+            if (!vpnConfig.Contains("hy2://", StringComparison.OrdinalIgnoreCase) &&
+				!vpnConfig.Contains("hysteria2://", StringComparison.OrdinalIgnoreCase) &&
+				await ConvertConfigAsync(configForValidation) == null)
                 continue;
 
             await Task.Delay(1500);
