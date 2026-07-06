@@ -178,7 +178,8 @@ public static class SetAdsRouteService
             }
             else if (vpnConfig.StartsWith("vless://", StringComparison.OrdinalIgnoreCase) ||
                      vpnConfig.StartsWith("trojan://", StringComparison.OrdinalIgnoreCase) ||
-                     vpnConfig.StartsWith("hysteria2://", StringComparison.OrdinalIgnoreCase))
+                     vpnConfig.StartsWith("hysteria2://", StringComparison.OrdinalIgnoreCase) ||
+                     vpnConfig.StartsWith("hy2://", StringComparison.OrdinalIgnoreCase))
             {
                 try
                 {
