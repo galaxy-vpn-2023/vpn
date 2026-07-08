@@ -144,20 +144,16 @@ public static class SetAdsRouteService
                         continue;
 
                     var routeHost = GetVmessRouteHost(vmessJson);
-                    if (string.IsNullOrWhiteSpace(routeHost))
+
+					if (parts.Length > 4 && string.Equals(parts[1], "passed", StringComparison.OrdinalIgnoreCase))
+						routeHost = parts[4];
+
+					if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    var countryInfo = await GetCountryInfoAsync(routeHost);
+					var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
-
-					if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
-					{
-						countryCode = NormalizeCountryCode(parts[9]);
-					}
-					else
-					{
-						countryCode = countryInfo.CountryCode;
-					}
+					countryCode = countryInfo.CountryCode;
 
 					if (ShouldSkipCountry(countryCode))
                         continue;
@@ -169,12 +165,6 @@ public static class SetAdsRouteService
                     }
 
                     Console.WriteLine("ISP accepted: " + isp);
-
-                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
-                    {
-                        await Task.Delay(500);
-                        countryInfo = await GetCountryInfoAsync(parts[4]);
-                    }
 
                     var flag = CountryCodeToFlag(countryCode!);
                     var city = countryInfo.CityName ?? string.Empty;
@@ -196,22 +186,18 @@ public static class SetAdsRouteService
                 try
                 {
                     var routeHost = GetVlessOrTrojanOrHysteriaRouteHost(vpnConfig);
-                    if (string.IsNullOrWhiteSpace(routeHost))
+
+					if (parts.Length > 4 && string.Equals(parts[1], "passed", StringComparison.OrdinalIgnoreCase))
+						routeHost = parts[4];
+
+					if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    var countryInfo = await GetCountryInfoAsync(routeHost);
+					var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
+					countryCode = countryInfo.CountryCode;
 
-                    if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
-					{
-						countryCode = NormalizeCountryCode(parts[9]);
-					}
-					else
-					{
-						countryCode = countryInfo.CountryCode;
-					}
-
-                    if (ShouldSkipCountry(countryCode))
+					if (ShouldSkipCountry(countryCode))
                         continue;
 
                     if (!IsAllowedIsp(isp))
@@ -221,12 +207,6 @@ public static class SetAdsRouteService
                     }
 
                     Console.WriteLine("ISP accepted: " + isp);
-
-                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
-                    {
-                        await Task.Delay(500);
-                        countryInfo = await GetCountryInfoAsync(parts[4]);
-                    }
 
                     var flag = CountryCodeToFlag(countryCode!);
                     var city = countryInfo.CityName ?? string.Empty;
@@ -244,22 +224,18 @@ public static class SetAdsRouteService
                 try
                 {
                     var routeHost = GetShadowsocksRouteHost(vpnConfig);
-                    if (string.IsNullOrWhiteSpace(routeHost))
+
+					if (parts.Length > 4 && string.Equals(parts[1], "passed", StringComparison.OrdinalIgnoreCase))
+						routeHost = parts[4];
+
+					if (string.IsNullOrWhiteSpace(routeHost))
                         continue;
 
-                    var countryInfo = await GetCountryInfoAsync(routeHost);
+					var countryInfo = await GetCountryInfoAsync(routeHost);
                     isp = countryInfo.Isp;
+					countryCode = countryInfo.CountryCode;
 
-                    if (line.Contains("passed", StringComparison.OrdinalIgnoreCase))
-					{
-						countryCode = NormalizeCountryCode(parts[9]);
-					}
-					else
-					{
-						countryCode = countryInfo.CountryCode;
-					}
-
-                    if (ShouldSkipCountry(countryCode))
+					if (ShouldSkipCountry(countryCode))
                         continue;
 
                     if (!IsAllowedIsp(isp))
@@ -269,12 +245,6 @@ public static class SetAdsRouteService
                     }
 
                     Console.WriteLine("ISP accepted: " + isp);
-
-                    if (parts.Length > 4 && !string.Equals(parts[4], "null", StringComparison.OrdinalIgnoreCase))
-                    {
-                        await Task.Delay(500);
-                        countryInfo = await GetCountryInfoAsync(parts[4]);
-                    }
 
                     var flag = CountryCodeToFlag(countryCode!);
                     var city = countryInfo.CityName ?? string.Empty;
