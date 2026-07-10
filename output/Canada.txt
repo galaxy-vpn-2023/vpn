@@ -1,8 +1,17 @@
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.16.73.137:443?encryption=none&security=tls&sni=t1s1.rittbo.kdns.fr&fp=chrome&allowinsecure=0&type=ws&host=t1s1.rittbo.kdns.fr&path= @generalconfiig#🇨🇦 Toronto
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.42.182:443?encryption=none&fp=chrome&host=t1s1.rittbo.kdns.fr&path=%2F&security=tls&sni=t1s1.rittbo.kdns.fr&type=ws#🇨🇦 Toronto
-vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@104.16.72.2:443?path=/sg-amz&security=tls&encryption=none&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&sni=support.zoom.us.yxls.eu.cc#🇨🇦 Toronto
-vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.53.27:443?encryption=none&type=ws&security=tls&path=%2Ffp&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇨🇦 Toronto
+vless://6680846a-8a57-4dfd-9a0e-63209cfc8535@170.114.45.6:443?path=%2Fsg-amz&security=tls&encryption=none&insecure=0&host=support.zoom.us.yxls.eu.cc&fp=chrome&type=ws&allowInsecure=0&sni=support.zoom.us.yxls.eu.cc#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.37.237:8443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&type=ws&host=t1s1.rittbo.kdns.fr&path=/?TELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI?ed%3D512&security=tls&fp=chrome&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@104.18.42.54:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.158:443?encryption=none&type=ws&security=tls&path=%2F&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&insecure=0&allowInsecure=0#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@da.mfa.gov.ua:443?path=/&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@162.159.5.231:443?path=/&security=tls&encryption=none&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@172.64.145.186:443?encryption=none&type=ws&security=tls&path=%2F%3FTELEGRAM-MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI_MARAMBASHI%3Fed%3D512&host=t1s1.rittbo.kdns.fr&sni=t1s1.rittbo.kdns.fr&fp=chrome&insecure=0&allowInsecure=0#🇨🇦 Toronto
+vless://2b8738de-1af5-4267-b101-c05707769ed4@fans.liverpool.qzz.io:2083?path=/eyJqdW5rIjoiY0Y0cENQUmxsNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0=?ed=2560&security=tls&encryption=none&insecure=0&host=fans.liverpool.qzz.io&fp=chrome&type=ws&allowInsecure=0&sni=fans.liverpool.qzz.io#🇨🇦 Montreal
+vless://eeb6823c-b926-4ea2-866a-5542edd26e59@store.ubi.com:443?path=%2F&security=tls&encryption=none&insecure=0&host=t1s1.rittbo.kdns.fr&fp=chrome&type=ws&allowInsecure=0&sni=t1s1.rittbo.kdns.fr#🇨🇦 Toronto
 ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@185.196.61.82:8080#🇨🇦 Toronto
-vless://08f96221-9b7b-4e6f-8ffe-aee8b9c9b504@ov-canada1.09vpn.com:8443?path=/vless/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0#🇨🇦 Beauharnois
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#🇨🇦 Vancouver
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+vless://634cdbe8-963c-403b-8347-0e107ef6891e@172.67.223.47:443?path=%2FIn_Panel_Rayeghan_Ast_Va_Gheyre_Ghabele_Foroosh&security=tls&encryption=none&insecure=0&host=ez-22bbc3.ezaccess1a491f7.workers.dev&fp=android&type=ws&allowInsecure=0&sni=ez-22bbc3.ezaccess1a491f7.workers.dev#🇨🇦 Montreal
+vless://234c52f2-0d7b-dc4a-0d6b-b0b30000001c@104.21.66.198:80?path=/sync&security=none&encryption=none&host=billowing-surf-d251.netizo06.workers.dev&fp=chrome&type=ws&sni=billowing-surf-d251.netizo06.workers.dev#🇨🇦 Toronto

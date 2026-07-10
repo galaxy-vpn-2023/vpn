@@ -1,11 +1,10 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#🇬🇧 London
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 Stretford
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Stretford
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.182:443#🇬🇧 Stretford
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 Stretford
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 City of London
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.135:2085?security=&encryption=none&type=grpc&serviceName=vless#🇬🇧 London
 vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.142:2085/?type=grpc&encryption=none&flow=&serviceName=vless#🇬🇧 London
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.136:2085?security=&encryption=none&type=grpc&serviceName=vless#🇬🇧 London
+vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#🇬🇧 London
