@@ -1,9 +1,4 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@52.56.143.46:1010#🇬🇧 London
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 City of London
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Stretford
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 Stretford
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
-vless://1ea1b30b-4114-4a5c-bd3a-9637bdae1948@45.86.159.134:2085?type=grpc&serviceName=vless#🇬🇧 London
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptZHA2NWc2bGZ3cGh6Mnc2@0710-bbb.kovira2.ir:1010#🇬🇧 London
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
