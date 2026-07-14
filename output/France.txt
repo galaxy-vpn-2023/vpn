@@ -1,3 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.138.45:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#🇫🇷 Paris
-hysteria2://H2I53e3OzO@140.233.177.48:33884?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=8a93949bea6dc943bc3af58adc667972de05482d30e9c41fc32959700c0db029&sni=www.oracle.com#🇫🇷 Paris
