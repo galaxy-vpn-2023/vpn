@@ -1,1 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpxNmJocHlqazBvMzUyeDdp@135.125.113.81:8080#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.143.26:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
