@@ -1,7 +1,3 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@163.172.244.41:1080#🇫🇷 Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.156.173.206:1080#🇫🇷 Saint-Denis
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@194.187.249.220:1080#🇫🇷 Saint-Denis
-trojan://humanity@104.18.152.219:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@185.128.25.36:1080#🇫🇷 Paris 09 Opéra
-hysteria2://vVaz4PV7B7@140.233.177.48:33884?security=tls&obfs=salamander&obfs-password=t-me-V2RayyNGvpn&insecure=1&pinSHA256=8a93949bea6dc943bc3af58adc667972de05482d30e9c41fc32959700c0db029&sni=www.oracle.com#🇫🇷 Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcjA2clVfdjF2RlBZZVhxOXpic0FB@62.210.123.100:1080#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.123.16:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.152.119:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
