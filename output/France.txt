@@ -1,18 +1,9 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.45.50.197:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.104.170:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-trojan://NQ26071394@15.237.250.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=chief-cricket.rooster465.autos#🇫🇷 Paris
-trojan://humanity@162.159.38.119:443?encryption=none&security=tls&sni=www.gossipglove.com&type=ws&host=www.gossipglove.com&path=/assignment#🇫🇷 Paris
-trojan://humanity@162.159.38.119:443?path=/assignment&security=tls&insecure=0&host=www.gossipglove.com&type=ws&allowInsecure=0&sni=www.gossipglove.com#🇫🇷 Paris
-trojan://humanity@188.114.97.7:443?path=%2Fassignment&security=tls&insecure=0&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
-trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
-trojan://humanity@172.64.155.209:443?host=www.gossipglove.com&path=%2Fassignment&sni=www.gossipglove.com&type=ws#🇫🇷 Paris
-trojan://humanity@104.18.152.225:443?host=www.ignitelimit.com&path=%2Fassignment&sni=www.ignitelimit.com&type=ws#🇫🇷 Paris
-trojan://humanity@chatgpt.com:443/?type=ws&host=www.gossipglove.com&path=%2Fassignment&security=tls&sni=www.gossipglove.com#🇫🇷 Paris
-trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
-trojan://humanity@104.16.174.36:443/?type=ws&host=www.ignitelimit.com&path=%2Fassignment&security=tls&sni=www.ignitelimit.com#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.111.173:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.111.173:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.36.111.173:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 Roubaix
-vless://72d1797c-cef8-410a-b8fd-db9104dc3cb0@104.16.211.140:443?security=tls&type=ws&path=/jdhfyws&host=amooaliii.net&packetEncoding=xudp&sni=amooaliii.net&fp=chrome&encryption=none#🇫🇷 Val d'Oingt
+trojan://NQ26071394@15.237.250.154:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=chief-cricket.rooster465.autos#🇫🇷 Paris
+trojan://humanity@104.18.152.229:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
+trojan://NQ26071394@15.237.250.154:443?security=tls&sni=chief-cricket.rooster465.autos&fp=chrome&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇫🇷 Paris
+trojan://humanity@104.16.174.12:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
+trojan://NQ26071394@15.237.250.154:443?fp=chrome&sni=chief-cricket.rooster465.autos#🇫🇷 Paris
