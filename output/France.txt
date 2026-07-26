@@ -1,10 +1,4 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaU9NQlU1SUR2SmNGcXlOUGJSallS@137.74.119.18:10443#🇫🇷 Roubaix
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.39.65.159:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.38.252:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://7e544a9d-7667-413b-bbb0-b3bb1aac6d77@104.16.72.41:443?path=/rsedgws&security=tls&encryption=none&insecure=0&host=shegeftihaaa.net&type=ws&allowInsecure=0&sni=shegeftihaaa.net#🇫🇷 Paris
-trojan://humanity@104.18.152.246:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmloud.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmloud.com#🇫🇷 Paris
-vless://0b8dfc50-9e2d-4b3c-85cd-870b478312a0@45.192.2.115:443?security=reality&encryption=none&pbk=1oUeBtHH4DskTM_jCh-6enWRkFMDX9l1OU5kWYl4kxA&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=yandex.net&sid=f34818a561dfd1fe#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.236.79.88:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de2-hy2.veilvpn.life:3478/?sni=de2-hy2.veilvpn.life#🇫🇷 Paris
