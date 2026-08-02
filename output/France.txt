@@ -1,4 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.38.194.199:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@64.31.63.244:8881#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.224.64.110:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
