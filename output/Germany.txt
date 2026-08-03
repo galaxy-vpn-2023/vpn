@@ -1,1 +1,14 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@62.113.194.49:1080#🇩🇪 Frankfurt am Main
+vless://a481265c-a4d8-4d1a-9ae1-48eb3f7fccb4@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Nuremberg
+vless://8b0c48db-c228-47d9-b634-6ea6edf81e22@159.69.192.171:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Nuremberg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp1Uk91RXFzTDhJVU1NVmI0d0R3bkdV@57.129.121.230:10443#🇩🇪 Frankfurt am Main
+vless://de5dcb9e-6a72-45a2-8d3d-de00e5431426@46.225.220.111:1234?encryption=none&type=tcp&headerType=http&host=play.google.com#🇩🇪 Nuremberg
+vless://7ff55eb0-eff4-4d71-ad1c-e6fe1a6c68d9@159.69.192.171:1234?security=&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Nuremberg
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪 Frankfurt am Main
