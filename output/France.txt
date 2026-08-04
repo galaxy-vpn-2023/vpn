@@ -1,6 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.237.234.170:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.16.112:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://9f0baff8-bdee-4de9-9515-bcc4932b41fa@194.76.154.31:40443?security=reality&encryption=none&pbk=MN6QjUHDUXyteMdR-cDna89fq4X3qgQhLnNqTtRUbBQ&headerType=none&type=tcp&sni=deepl.com&sid=a8ae#🇫🇷 Paris

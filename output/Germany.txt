@@ -1,2 +1,13 @@
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.193.221:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Nuremberg
+vless://83b69fd2-ae76-4a35-8f0e-65b90babcc6f@167.233.47.127:1234?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇩🇪 Nuremberg
+vless://aa9dfeec-9933-4b41-9154-daae02003c3d@159.69.192.171:1234?encryption=none&security=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇩🇪 Nuremberg
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYRjBrbHc3ODcwdlhuM3VRSXhlMTlR@62.113.194.49:1080#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&alpn=h3&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?security=tls&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=1&sni=api.kermanshahi.org#🇩🇪 Frankfurt am Main
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&insecure=0#🇩🇪 Frankfurt am Main
 hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
-hysteria2://dac7qy87teimbiq4@v.dianawmoon.dpdns.org:8443?alpn=h3&fp=unsafe&obfs=salamander&obfs-password=4693t4m6i5ebs8ha&security=tls&sni=#🇩🇪 Frankfurt am Main
+hy2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000/?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi&note=@FreeOnlineVPN#🇩🇪 Frankfurt am Main
+hysteria2://TelegramVPNjey@179.61.251.253:37003?security=tls&obfs=salamander&obfs-password=83v9muumcyikh5ch&insecure=0&sni=de.jey.cc.cd#🇩🇪 Frankfurt am Main
