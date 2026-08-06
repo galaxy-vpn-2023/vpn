@@ -1,11 +1,7 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNR1U0WmpWa01HTmhZMlkzWXpNME5tSXhNRGd5TkRRNU9HVmpaalkyWTJZPQ==@129.151.64.234:61312#🇬🇧 Cardiff
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 City of London
-vless://9e3de7f7-a595-4117-b1b6-dc41eb870ab1@144.31.213.225:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=ABNRlkjlonYV9TOFYgjWwz0wn1s6sg_yCErsLYkU_Sg&security=reality&sid=d6ff9019a77e354a&sni=www.cloudflare.com&type=tcp#🇬🇧 London
-vless://b052df40-d51c-456c-9bd6-57af01a87e4e@144.31.213.150:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=vWSgdMDirb9aDZLWijSXXXl-NCTrtBgEe9MQqcgV6h8&security=reality&sid=6a2e3af684799b19&sni=cdn.pinecloud.net&type=tcp#🇬🇧 London
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443/?insecure=1&sni=wopa8.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa6.api3-max.ru:443/?sni=wopa6.api3-max.ru#🇬🇧 Slough
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa8.api3-max.ru:443/?insecure=1&sni=wopa8.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443/?sni=wopa4.api3-max.ru#🇬🇧 Slough
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443/?insecure=1&sni=wopa4.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa3.api3-max.ru:443/?sni=wopa3.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa10.api3-max.ru:443/?sni=wopa10.api3-max.ru#🇬🇧 Slough
+hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443/?insecure=1&sni=wopa4.api3-max.ru#🇬🇧 Slough
