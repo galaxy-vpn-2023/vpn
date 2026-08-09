@@ -1,4 +1,4 @@
+vless://6d3b8cac-9d1c-4219-b282-581b76341060@157.245.43.172:22298?security=none&encryption=none&host=play.google.com&headerType=http&type=tcp#🇬🇧 Slough
 vmess://ewogICJhZGQiOiAiNjYuMTYzLjExNy41OCIsCiAgImFpZCI6ICIwIiwKICAiYWxwbiI6ICIiLAogICJmcCI6ICIiLAogICJob3N0IjogIkBQcm94eVZQTjExIiwKICAiaWQiOiAiMDQ2MjFiYWUtYWIzNi0xMWVjLWI5MDktMDI0MmFjMTIwMDAyIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIi8gQFByb3h5VlBOMTEiLAogICJwb3J0IjogIjIyMzI0IiwKICAicHMiOiAi8J+HrPCfh6cgTG9uZG9uIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
-hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa4.api3-max.ru:443/?sni=wopa4.api3-max.ru#🇬🇧 Slough
 hy2://67a1454f-5a95-4e30-9723-1ffcbe7e97f9@wopa5.api3-max.ru:443/?sni=wopa5.api3-max.ru#🇬🇧 Slough
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#🇬🇧 Coventry

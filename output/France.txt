@@ -1,5 +1,4 @@
-trojan://ND91608427@15.237.219.234:443?sni=careful-tadpole.rooster465.autos#🇫🇷 Paris
-trojan://ND91608427@15.237.49.244:443?sni=star-kiwi.rooster465.autos#🇫🇷 Paris
-trojan://humanity@104.16.72.2:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-hysteria2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&obfs=salamander&obfs-password=T@T*FP7uq=!t&sni=fr2.xiaoliyu.cyou#🇫🇷 Paris
+trojan://humanity@104.16.174.36:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
+trojan://humanity@165.215.250.14:443?path=%2Fassignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
+trojan://humanity@104.16.174.117:443?path=/assignment&security=tls&insecure=0&host=www.ignitelimit.com&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
 hy2://f64c72a1-7e1f-4dd1-8929-7e41682542e2@fr2.xiaoliyu.cyou:10086/?insecure=1&sni=fr2.xiaoliyu.cyou&obfs=salamander&obfs-password=T@T*FP7uq=!t#🇫🇷 Paris
