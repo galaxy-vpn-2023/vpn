@@ -1,2 +1,2 @@
-vless://8f046c7d-2e11-46b3-91c6-d20c240fd202@167.99.197.22:24522?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇬🇧 Slough
+vless://52b71b75-4b77-4cec-990b-046ec1938e1f@67.159.56.57:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=uk.bvps.cloud&fp=firefox&pbk=j5qmR8E9er-0n5zZbK6s_SdvYm-tYlraXVYm49ArWS8&sid=60debb3ab744d8ce&type=tcp&headerType=none#🇬🇧 Slough
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#🇬🇧 Coventry
