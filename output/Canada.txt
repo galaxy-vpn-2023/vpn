@@ -1,5 +1,6 @@
-vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.66.44.97:443?path=/sg-melbi&security=tls&encryption=none&insecure=0&host=josni.hoyes.cloudns.ch&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=josni.hoyes.cloudns.ch#🇨🇦 Toronto
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+vless://9b0e4149-873a-43cc-bd57-4e84a5637a73@104.16.71.216:443?path=%2FeyJqdW5rIjoiSU5tUFVwVnhqbXQzTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbXX0&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&fp=chrome&type=ws&allowInsecure=0&sni=MutE-BIRd-4EA5.mpddqAXcssvSB.woRKerS.DeV#🇨🇦 Toronto
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#🇨🇦 Vancouver
-hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#🇨🇦 Toronto
+vless://3adac494-0eb1-4d89-a187-b2181691444d@104.21.55.229:8880?encryption=none&host=tiny-lake-bbf1.369-766.workers.dev&path=%2Fpyip%3DProxyIP.SG.CMLiussss.net&security=none&type=ws#🇨🇦 Toronto
+hy2://https://xship.2fa.cat@starlink-ft.251313.xyz:443/?insecure=1&sni=www.cloudflare.com#🇨🇦 Montreal
 hy2://c2948c84-748f-47f6-bc7a-b949ef279f85@78.159.240.215:443/?insecure=1&sni=quic.tyr-agentstvo.tech#🇨🇦 Toronto

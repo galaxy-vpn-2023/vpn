@@ -1,1 +1,2 @@
+vless://8f046c7d-2e11-46b3-91c6-d20c240fd202@167.99.197.22:24522?encryption=none&type=tcp&headerType=http&path=%2F&host=play.google.com#🇬🇧 Slough
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#🇬🇧 Coventry
