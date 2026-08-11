@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443#🇬🇧 Stretford
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.179:443?prefix=%16%03%01%00%C2%A8%01%01#🇬🇧 Stretford
 hy2://68b4b16e-2759-47a4-8a69-33118edf5ce6@ang.leontunel.ru:443/?sni=ang.leontunel.ru#🇬🇧 Coventry
