@@ -1,2 +1,2 @@
-vless://7e85ed3f-3829-45b1-8b1c-6a2e45ebc967@164.68.127.108:24144?fp=edge&security=none&type=tcp#🇫🇷 Lauterbourg
+hy2://22d891f5-ad85-4824-b0b8-e30cf3d37eb5@mg2.mangshe.xyz:2056/?insecure=1&sni=mg2.mangshe.xyz#🇫🇷 Paris
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#🇫🇷 Paris
