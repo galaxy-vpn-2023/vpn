@@ -1,1 +1,5 @@
+trojan://humanity@188.114.98.0:443?security=tls&sni=www.calmlunch.com&allowinsecure=0&type=ws&host=www.calmlunch.com&path=/assignment#🇫🇷 Paris
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpZOFRhS1FNbmNnaThubF9kTm5MalFSVUFtVDRoWmdhNw==@104.105.202.31:1080#🇫🇷 Paris
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 Strasbourg
+trojan://humanity@www.calmlunch.com:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@fr194.mechvpn.online:443/?sni=fr194.mechvpn.online#🇫🇷 Paris
