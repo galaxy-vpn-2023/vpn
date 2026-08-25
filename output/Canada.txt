@@ -1,8 +1,12 @@
+vless://9ec7da07-495e-45f2-8832-e718101c132c@172.67.135.80:2053?path=%2FeyJqdW5rIjoiQ3lmaEk1d2RBSjlBVVN3SSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjkxLjEwNy4xNDguMTU0IiwiOTEuMTA3LjI1NS4xOTYiLCI5MS4xMDcuMTcxLjI1MSIsIjkxLjEwNy4xNTguNzciLCI5MS4xMDcuMTU1LjEzIiwiOTEuMTA3LjI1MS4xMTMiXX0%3D%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=hojia.hojivpn.workers.dev&fp=firefox&type=ws&allowInsecure=0&sni=hojiA.hojivPN.WORkeRS.Dev#🇨🇦 Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI=@140.238.153.81:13345#🇨🇦 Toronto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#🇨🇦 Montreal
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@51.222.155.32:5003#🇨🇦 Beauharnois
-hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#🇨🇦 Montreal
+vless://5fc8a5e4-d0c5-4ad2-8bfe-db589553c6c1@104.18.39.196:8880?path=%2Fpyip&security=none&encryption=none&host=red-disk-58df.153-2ce.workers.dev&type=ws#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Beauharnois
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiZTZjYmI0Ni1lYmIwLTQ3MjYtOTIwMi02YTNiYWMxZDBhZmI=@140.238.153.81:13345#🇨🇦 Toronto
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-001.fastervpn.world:443/?insecure=1&sni=t.me#🇨🇦 Toronto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#🇨🇦 Montreal
 hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#🇨🇦 Toronto
 hysteria2://Telegram@vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
 hy2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443/?sni=quic.tyr-agentstvo.tech#🇨🇦 Toronto
