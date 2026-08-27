@@ -1,3 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@18.168.171.125:22222?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 London
-hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#🇬🇧 City of London
+hysteria2://@Tel@Configvibes@198.105.123.106:11504?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=faabd9eda7a1f97ebe67769a903eb816af7be17ce8825dd3f8af070b62c86961&sni=archive.ubuntu.com#🇬🇧 London
 hy2://53c76647-14d1-4df5-99cb-be99ad2e6bd9@uk196.mechvpn.online:443/#🇬🇧 London

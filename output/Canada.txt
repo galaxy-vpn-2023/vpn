@@ -1,13 +1,3 @@
-vless://26fb53e4-fd49-4b34-b605-b6cc1b1a06a8@104.17.181.19:8880?path=%2Fpyip&security=&encryption=none&host=royal-shape-3771.93-728.workers.dev&type=ws#🇨🇦 Toronto
-vless://e48e4049-58bb-4355-9a9a-433b9524d928@172.67.165.125:443?path=%2Fvl%2FFx1O4r0oHuQMNuKFQzcoV2yl31%3Fed&security=tls&encryption=none&insecure=0&host=z8z7lovopd53iz6ivd2m.fixing00ponvip.workers.dev&type=ws&allowInsecure=0&sni=z8Z7LoVOPd53iz6ivD2m.FixinG00PonviP.woRkers.DEV#🇨🇦 Toronto
-vless://cbfeff27-6e7a-4e99-b5ad-6b830e191741@172.67.209.139:443?path=%2Fvl%2Fwk14rIXEvRltsm88Nsboi%3Fed&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=srv-b890f5-eb36b6.omidiabolfazl155-c5f1.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=sRv-B890f5-Eb36b6.OmIdiaBoLfAZl155-c5f1.wORkErS.DEV#🇨🇦 Toronto
-vless://2b5753cf-4d0a-4746-b63d-cd67a3de2ccc@104.21.89.181:8880?security=none&type=ws&path=/&host=crimson-hill-8061.166-dcf.workers.dev&packetEncoding=xudp&sni=crimson-hill-8061.166-dcf.workers.dev#🇨🇦 Toronto
-vless://abc2f94e-af29-4f59-a0a0-6e3299d51f64@104.21.19.226:8880?path=%2FeyJqdW5rIjoiQXZDMHBUakpZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMjYwMjpmYzU5OjExOjY0OjpdIl19%3Fed&security=&encryption=none&host=cold-bush-a762.lidrezvpn.workers.dev&type=ws#🇨🇦 Toronto
-vless://9ef1d60d-9e38-49c5-9405-131e11be1f9c@172.67.131.114:2086?path=%2FeyJqdW5rIjoiVGtvRGR4TXdHSzdseGpZWCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzI2MDI6ZmM1OTpiMDo2NDo6XSJdfQ&security=&encryption=none&host=muddy-shadow-8905.qara-atayi-1.workers.dev&type=ws#🇨🇦 Toronto
-vless://d7a8ae86-9904-4f71-8fe4-d754ded610d7@104.21.11.152:8080?path=%2FeyJqdW5rIjoiOHNqQ3Bqc2dTZlppTEl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19%3Fed&security=&encryption=none&host=server6.diwir81236.workers.dev&type=ws#🇨🇦 Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@142.4.216.225:443#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp5dHcyYXdu@ca225.vpnbook.com:443#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@ca4.levikogjgfdd.ir:8388#🇨🇦 Montreal
 hysteria2://Telegram@vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
-hysteria2://@Telegram@Configvibes@45.92.219.237:8486?security=tls&obfs=salamander&obfs-password=Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------&insecure=1&pinSHA256=81ffead0b74d5839b6673de7bd5785cf2574f426acdd62d3e3199293a885377e&sni=ftp.debian.org#🇨🇦 Montreal
 hy2://83deb5ce-cd1c-41a6-8ec5-2ebc91f6f861@31.76.70.109:8443/?sni=quic.tyr-agentstvo.tech#🇨🇦 Toronto
