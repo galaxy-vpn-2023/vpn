@@ -1,22 +1,13 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 New York
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpab1p0ZlBPeVZ2bUtBUlVO@140.82.63.79:8388#🇺🇸 Piscataway
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 New York
 vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=yahoo.com&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&headertype=none#🇺🇸 New York
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6bkVMOWdIY2dlNUlOZEpoSUpMMHI5UmRreEJPbjZudm1hZjZ3WXdIK0p4Zz0=@129.146.116.35:50356#🇺🇸 Phoenix
-vless://1990630e-c2cf-4d1f-bba0-a51423df89a9@172.233.156.42:12668?security=reality&encryption=none&pbk=3sM_YEGrVBcvVyTzs6wes0zYq3GSGYbDfgkseWaYFmU&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=www.tesla.com&sid=7403a0a9d45e89#🇺🇸 Los Angeles
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4e68J+HuCBMb3MgQW5nZWxlcyIsCiAgImFkZCI6ICI4Mi4xOTguMjQ2LjI1MCIsCiAgInBvcnQiOiAiMTgwIiwKICAidHlwZSI6ICJub25lIiwKICAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwKICAiYWlkIjogIjAiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIvIiwKICAiaG9zdCI6ICJlcGdlLm11YXJ1YS5maWxlZ2Vhci1zZy5tZSIsCiAgInRscyI6ICIiCn0=
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHNXA2d3c0bzY3SEI=@108.181.118.10:8388#🇺🇸 Los Angeles
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@162.35.231.81:443?mode=auto&path=/&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&type=xhttp&sni=net.savesafe.run&sid=812609fa663c57fb#🇺🇸 Berkeley Springs
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 Los Angeles
-vless://b5ca5ab3-8cbc-4ac3-89da-9cd360589ecb@80.76.44.138:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=BvR2i3CJEL9QwNAWKqkkHY3rnqJdOFLyKw5DZ9sA2C8&host=net.savesafe.run&fp=chrome&type=xhttp&sni=note.savesafe.run&sid=812609fa663c57fb#🇺🇸 Berkeley Springs
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Dallas
+vmess://ewogICJhZGQiOiAiMTY1LjE0MC4yMTYuMTQyIiwKICAiYWlkIjogIjAiLAogICJob3N0IjogIiIsCiAgImlkIjogImI2NWEyZDY5LTU2MzQtNDJhMi1lNGJlLTU0ZThhNjE3NjkwMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIi9MZXZpa29Db25maWciLAogICJwb3J0IjogIjQ0MyIsCiAgInBzIjogIvCfh7rwn4e4IERlbnZlciIsCiAgInNjeSI6ICJhdXRvIiwKICAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsCiAgInNuaSI6ICIiLAogICJ0ZXN0X25hbWUiOiAiVVMxMyIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
 hy2://dsmO0439gj_nX942GJRE_9j39fbcxv52_R@85.209.157.177:8080/?sni=hopp-transit.1cooldns.com#🇺🇸 Los Angeles
-hy2://VB92_Ka9qwef143K_L23K1hz3_bF_Hz62uT_Bn1_sC@82.39.214.98:8080/?sni=hopp-us.yyuyy.com#🇺🇸 New York
 hy2://3b8c82ed-fe66-472d-915e-034ccb57103f@us.frkn.org:443/?insecure=1&sni=us.frkn.org#🇺🇸 New York
 hy2://6dcb725e-947e-4bbe-bb35-903374d57179@rm-eco-us-01.409648.xyz:443/?mport=9000-20000&insecure=1&sni=mkm.icu#🇺🇸 Cedar Knolls
-hy2://0bacdaea-099b-462b-b625-d7d44c89aace@94.156.250.67:55000/?insecure=1&sni=www.bing.com#🇺🇸 Sterling
-hy2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160/?insecure=1&sni=www.bing.com#🇺🇸 Sterling
+hy2://0a344117cfeef3d6602e338c2f1e7957@38.180.190.215:50160/?insecure=1&sni=www.bing.com#🇺🇸 Ashburn
 hy2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@faq.wwwinternetvideo.click:443/?insecure=1&sni=cabinet.wwwinternetvideo.click#🇺🇸 Washington
-hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@138.124.0.168:8080/?sni=hopp-legend-se.roxa.org#🇺🇸 Phoenix
 hy2://h_B9x3942fJ9x_Kpx3914KQ_nZ934HFg_rT@103.246.248.234:8080/?insecure=1&sni=hopp-legend-se.roxa.org#🇺🇸 Phoenix
-hy2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115/?insecure=1&sni=www.microsoft.com#🇺🇸 Ashburn
-hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#🇺🇸 Sterling
+hy2://1671a252e2a97dc2bda4e515475931da@132.226.226.189:50160/?insecure=1&sni=www.bing.com#🇺🇸 Ashburn
+hy2://github.com/Alvin9999-newpac/fanqiang@62.210.147.2:43115/?insecure=1&sni=www.microsoft.com#🇺🇸 Sterling
