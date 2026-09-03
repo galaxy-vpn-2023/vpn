@@ -1,11 +1,8 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22224?security=none&encryption=none&headerType=none&type=tcp#🇬🇧 London
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.179.45.135:22222?encryption=none&security=none&type=tcp#🇬🇧 London
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22223?encryption=none&security=none&type=tcp#🇬🇧 London
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22222?encryption=none&security=none&type=tcp#🇬🇧 London
-ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#🇬🇧 Portsmouth
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.173.203:22224?encryption=none&security=none&type=tcp#🇬🇧 London
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp6UlpOQnN6WXlXbzU=@51.77.225.200:8388#🇬🇧 Erith
-ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#🇬🇧 Portsmouth
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.134.70.15:22224?encryption=none&security=none&type=tcp#🇬🇧 London
-vless://de4d70f8-2156-45cd-b27e-187bcb7d4882@95.154.237.50:443?encryption=none&flow=xtls-rprx-vision&fp=&pbk=SiSky02wHz-S0TDHKFTdYhnrlT8Y3CfRsekZlcdLXDY&security=reality&sid=fd55b698ee8c3629&sni=lanacion.com.ar&type=tcp#🇬🇧 Maidenhead
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.177.173.203:22223?encryption=none&security=none&type=tcp#🇬🇧 London
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:443#🇬🇧 Portsmouth
+ss://YWVzLTI1Ni1nY206ZzVoNWpsZVRSU3lPM1JrNA==@149.102.132.184:80#🇬🇧 Portsmouth
+vless://2dc50eec-e028-4097-9f1c-9a1bbb37a49f@78.129.184.117:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=strapi.io&fp=firefox&security=reality&pbk=_8LiLlqEXJGXbg_G8KI1fXBlPnRoM3no-0oxxRRMcSw&sid=efcfd3c41c1762b0#🇬🇧 Putney
 vless://c6cff605-90cf-4953-bf97-0a44e43f229d@167.104.223.179:443?security=reality&encryption=none&pbk=fyfX-egDrRvXNW1Gt2P_8rH4jdupAcmhFLOCZCzCowo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=gb5.murhost.network&sid=fc36b4a584871aa5#🇬🇧 London
-vless://f6190ff2-864c-46cf-ac16-93908c069b75@129.121.95.159:443?fp=firefox&security=tls&host=129.121.95.159&encryption=none&sni=129.121.95.159&allowInsecure=0&type=ws&insecure=0&path=/connect#🇬🇧 Slough
+ss://YWVzLTI1Ni1nY206TFhjaExzSXd0Q2VVQVVndQ==@149.102.149.207:443#🇬🇧 Portsmouth
