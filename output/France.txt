@@ -1,10 +1,2 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@15.188.69.42:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.170.215:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-trojan://humanity@188.114.97.7:443?sni=www.ignitelimit.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&insecure=0&security=tls&type=ws&path=%2Fassignment&allowInsecure=0#🇫🇷 Paris
-trojan://humanity@212.183.88.136:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCcW5xVG9paDBQYlU=@51.255.13.232:8388#🇫🇷 Strasbourg
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#🇫🇷 Paris
-trojan://humanity@www.speedtest.net:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-trojan://humanity@chat.openai.com:443?path=%2Fassignment&security=tls&alpn=h2&insecure=0&host=www.calmlunch.com&fp=chrome&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-vless://1577b744-8004-4eef-862c-8cae0cd27ab9@185.255.112.206:443?mode=auto&path=%2F&security=reality&encryption=none&pbk=ZBv1jOEHziWtQQoThg63_1gm4zIPyk_cfVmNJ1SOZSk&fp=chrome&spx=%2F&type=xhttp&sni=play.google.com&sid=a88550765b9956ee#🇫🇷 Paris
-trojan://humanity@188.114.97.7:443?type=ws&path=/assignment&security=tls&sni=www.ignitelimit.com&ech=ip.gs+udp://8.8.8.8#🇫🇷 Paris
-trojan://humanity@172.67.149.60:443?path=/assignment&security=tls&insecure=0&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.ignitelimit.com#🇫🇷 Paris
