@@ -1,9 +1,12 @@
-vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.145.202:8443?encryption=none&type=ws&security=tls&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦 Toronto
-vless://5dc15e15-f285-4a9d-959b-0e4fbdd77b63@cf.008500.xyz:443?encryption=none&type=ws&security=tls&sni=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&fp=chrome&host=powered-by-surena.configfarsi6982dd6e0355e.workers.dev&path=/?ed=2560#🇨🇦 Toronto
+vless://17b2ed22-5fd0-47ad-b5f0-658379379ced@104.18.11.118:8880?path=/pyip&security=&encryption=none&host=black-wildflower-dd92.72-1e8.workers.dev&type=ws#🇨🇦 Toronto
 vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@104.19.214.98:2087?path=/?TELEGRAM-MARAMBASHI_MARAMBASHI?ed=512&security=tls&encryption=none&insecure=0&host=faxf32gkfzoxqv.fx6hsv0.ccwu.cc&fp=chrome&type=ws&allowInsecure=0&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦 Toronto
+vless://77777777-8a3e-6666-b6d1-a9c5f0e8b3a2@172.64.52.30:443?type=ws&security=tls&fp=chrome&sni=faxf32gkfzoxqv.fx6hsv0.ccwu.cc#🇨🇦 Toronto
 ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.85.185:8118#🇨🇦 Beauharnois
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦 Montreal
-vless://a71c8954-66a8-4321-bedb-2336230d81ce@130.107.73.148:41373?security=reality&type=raw&sni=google.com&fp=chrome&flow=xtls-rprx-vision&sid=0e&pbk=m0GsZOAwvAJEaqh9aH6qfOmBKo0KW0jY_tJEC6KaDEU&encryption=none#🇨🇦 Toronto
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083?type=tcp#🇨🇦 Beauharnois
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
-hysteria2://Telegram@vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
+vless://5f3161da-b950-47cf-8e66-5bfa9fc3f68e@31.56.222.36:443?encryption=none&extra=%7B%22mode%22%3A%22auto%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&fp=chrome&host=&mode=auto&path=%2Fapi%2Fstream&pbk=-JvxsO6T-FwQEzsAM-S5s7lwohRmgv8KuBdZqaZPXTo&security=reality&sid=f5080e30e0af&sni=blog.api.www.cloudflare.com&spx=%2Fd5232c6622a01d0&type=xhttp&x_padding_bytes=100-1000#🇨🇦 Toronto
+trojan://humanity@188.114.96.3:443?host=www.calmlunch.com&path=%2Fassignment&sni=www.calmlunch.com&type=ws#🇨🇦 Toronto
 hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
+hysteria2://Telegram@vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
