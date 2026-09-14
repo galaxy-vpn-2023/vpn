@@ -373,9 +373,8 @@ public static class SetAdsRouteService
                 if (hashIndex >= 0)
                     afterQuestion = afterQuestion[..hashIndex];
 
-if (afterQuestion.Contains('?')){
-return null;
-}
+                if (afterQuestion.Contains('?'))
+                    return null;
 
                 var paramsCollection = HttpUtility.ParseQueryString(afterQuestion);
 
