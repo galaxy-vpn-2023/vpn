@@ -1,5 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.25.107:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.25.107:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.37.25.107:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
-trojan://humanity@104.18.8.83:443?type=ws&security=tls&sni=www.calmlunch.com&path=/assignment#🇫🇷 Paris
 hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443/?insecure=1&sni=35.181.169.140#🇫🇷 Paris
