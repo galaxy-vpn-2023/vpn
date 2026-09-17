@@ -1,45 +1,32 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#🇺🇸 Staten Island
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 New York
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 Charlottesville
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 New York
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 New York
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.95:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&host=v2rayNplus--v2rayNplus--v2rayNplus&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Dallas
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 Dallas
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@188.114.97.6:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&path=/proxyip=us.xiabibi.cf&host=nb.lovecf.ggff.net#🇺🇸 Dallas
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 Dallas
-vless://44eae030-290b-4083-8102-6f8bab05701b@104.16.10.121:443?path=%2F&security=tls&encryption=none&fm=%7B%22tcp%22%3A%5B%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%22tlshello%22%2C%22lengths%22%3A%5B%220%22%2C%22104%22%2C%221%22%5D%2C%22delays%22%3A%5B%220%22%5D%2C%22maxSplit%22%3A%220%22%7D%7D%2C%7B%22type%22%3A%22fragment%22%2C%22settings%22%3A%7B%22packets%22%3A%221-1%22%2C%22lengths%22%3A%5B%22114%22%2C%221%22%5D%2C%22delays%22%3A%5B%221%22%5D%2C%22maxSplit%22%3A%2211%22%7D%7D%5D%7D&insecure=0&host=cfvvv-ev1.pages.dev&type=ws&allowInsecure=0&sni=cfvvv-ev1.pages.dev#🇺🇸 Wheaton
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.229:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&fp=chrome&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#🇺🇸 Sulphur Springs
-vless://c423cc1b-f88e-421c-9a16-c480d84da20f@198.251.78.29:2053?security=reality&encryption=none&pbk=Uk5b-Wh_uxeCc7R8NS9iWE40xc0h9wWC04rSB9yhgAw&headerType=none&fp=firefox&type=tcp&sni=www.cloudflare.com&sid=b5d625695ec82c7e#🇺🇸 Sulphur Springs
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.117:443?security=tls&sni=nb.lovecf.ggff.net&type=ws&host=nb.lovecf.ggff.net&path=/proxyip=us.xiabibi.cf#🇺🇸 Santa Clara
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.52:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.231:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.89:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.182:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.232:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Dallas
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 New York
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443?#🇺🇸 Staten Island
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080#🇺🇸 Hillsboro
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo4dG1udlg1ell1V0dWSURQMmpnbFp3@5.78.51.123:1080?#🇺🇸 Hillsboro
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 Phoenix
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.212:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#🇺🇸 Los Angeles
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 New York
+vless://b09dfed1-90fa-4353-8bdf-de1edb2e2d79@139.64.235.117:443?path=/proxyip=us.xiabibi.cf&security=tls&encryption=none&insecure=0&host=nb.lovecf.ggff.net&type=ws&allowInsecure=0&sni=nb.lovecf.ggff.net#🇺🇸 Dallas
+vmess://ewogICJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJkMTNmYzJmNS0zZTA1LTQ3OTUtODFlYi00NDE0M2EwOWU1NTIiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIvIiwKICAicG9ydCI6ICIxODAiLAogICJwcyI6ICLwn4e68J+HuCBMb3MgQW5nZWxlcyIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogIiIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸 Los Angeles
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 New York
+vmess://ewogICJhZGQiOiAiODIuMTk4LjI0Ni4yMzMiLAogICJhaWQiOiAiMCIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZDEzZmMyZjUtM2UwNS00Nzk1LTgxZWItNDQxNDNhMDllNTUyIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiIiwKICAicG9ydCI6ICIxODAiLAogICJwcyI6ICLwn4e68J+HuCBMb3MgQW5nZWxlcyIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogIlRNX0F6YXJiYXluYWIxLnZpcC5mMTQud29ya2Vycy5kZXYiLAogICJ0bHMiOiAiIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIgp9
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpoQ0NXT2NJc0s1d3JGejRPWDcwcldm@216.105.168.18:443#🇺🇸 Los Angeles
 vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4e68J+HuCBMb3MgQW5nZWxlcyIsCiAgImFkZCI6ICI2Ny4yMjAuNzIuMjM3IiwKICAicG9ydCI6ICIyMjMyNCIsCiAgImlkIjogIjA0NjIxYmFlLWFiMzYtMTFlYy1iOTA5LTAyNDJhYzEyMDAwMiIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInJhdyIsCiAgInR5cGUiOiAibm9uZSIKfQ==
-vless://8212a50b-25bf-4739-bba1-aaffb5ffc84c@194.55.189.249:40443?security=reality&encryption=none&pbk=KCbW84C8h2Ja01LS0Ro8EpLLfzMTjs11t1ldDWLd5zo&headerType=none&fp=chrome&type=tcp&sni=deepl.com&sid=aae8#🇺🇸 Los Angeles
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
+hysteria2://dongtaiwang.com@142.249.37.90:44356?security=tls&insecure=0&sni=hy2.561891.xyz#🇺🇸 Los Angeles
+vless://ad297a2b-ae17-4d2d-8fce-e2eafb89b145@45.58.126.115:8444?flow=xtls-rprx-vision&sni=nbcnews.com&sid=08&fp=firefox&pbk=OyUyHy3-04xKvFMvAzUbiVf7tkWX2a_gC2E_sEHGVw8&type=tcp&headerType=none&encryption=none&security=reality#🇺🇸 Miami
+vless://1563ad16-9ac7-4214-8eb7-303f745efb07@themeforest.net:8880?path=/pyip&security=&encryption=none&host=silent-cake-fb8d.69-a76.workers.dev&type=ws#🇺🇸 Flower Mound
+vless://ef5c5d5c-08c6-4549-b05e-d1ff29ecc8ba@104.21.83.140:443?path=/JRr6VGcSLFc034DC6sDbwyWJLbB&security=tls&encryption=none&insecure=0&host=0-m16.ChIAng-Mai2032.kdnS.fR&type=ws&allowInsecure=0&sni=0-m16.ChIANG-maI2032.kdNS.fr#🇺🇸 Secaucus
 hysteria2://V2RayyNGvpn@91.107.140.154:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&Telegram&insecure=0&pinSHA256=ac0f780198fef79b1bcb54ded5c202427c33832dfe8f92819c611b4b8c5054c0&sni=Play.google.com#🇺🇸 Mountain View
 hysteria2://Ur0okuRxze@91.107.140.154:443?security=tls&obfs=salamander&obfs-password=V2RayyNGvpn&Telegram&insecure=0&pinSHA256=ac0f780198fef79b1bcb54ded5c202427c33832dfe8f92819c611b4b8c5054c0&sni=Play.google.com#🇺🇸 Mountain View
-hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#🇺🇸 Seattle
-hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#🇺🇸 Seattle
-hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#🇺🇸 Seattle
-hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#🇺🇸 Seattle
-hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#🇺🇸 Seattle
-hysteria2://3a702d4d1de4949005d8431220e040fb@152.67.75.161:443/?insecure=1&obfs=salamander&obfs-password=c13f29db6a638ad2b211b9ce2669ef27&sni=www.bing.com#🇺🇸 Seattle
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#🇺🇸 Chantilly
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=whatsapp.com#🇺🇸 Ashburn
-hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#🇺🇸 New York
+hy2://f0098427ecce06a25089f5c18f4ac666@92.5.43.121:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=f832485b7363626ee836f58576aad25f#🇺🇸 Dallas
+hy2://cbb5cf13f04b22883390f1a073753123@147.224.12.19:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=7a5537b116d923fe572f85f1db7fe501#🇺🇸 Dallas
+hy2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=d0dd99b2b4da604123ce17b6d17072a2#🇺🇸 Dallas
+hy2://4d6d97a82ddf959252e2ada36c3c3053@138.2.8.249:50160/?insecure=1&sni=www.bing.com#🇺🇸 Dallas
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=css.rbxcdn.com#🇺🇸 Dallas
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443/?insecure=1&sni=whatsapp.com#🇺🇸 Dallas
+hy2://github.com/Alvin9999-newpac/fanqiang@62.210.7.139:60111/?insecure=1&sni=bing.com#🇺🇸 Philadelphia
+hy2://184cdec28da5a09450803c8debcd2cc9@138.3.208.26:50160/?insecure=1&sni=www.bing.com#🇺🇸 Dallas
