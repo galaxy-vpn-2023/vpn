@@ -1,2 +1,2 @@
-vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=corporate.amazon.com&fp=chrome&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&sid=33c0b6e213&spx=/36afe087d75c9f6&type=tcp&headerType=none#🇪🇸 Madrid
+vless://bc8446e7-ba8e-4dfd-92df-8681793fe31e@185.218.17.127:443?security=reality&encryption=none&pbk=QKaBb_u0KoNkMYbh9ljrxC9BDtnHyFoaMd4-s4xfKxQ&headerType=none&fp=chrome&spx=%2F36afe087d75c9f6&type=tcp&flow=xtls-rprx-vision&sni=corporate.amazon.com&sid=33c0b6e213#🇪🇸 Madrid
 hy2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433/?insecure=1&sni=es1.xiaoliyu.cyou#🇪🇸 Madrid
