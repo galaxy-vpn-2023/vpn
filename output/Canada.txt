@@ -1,21 +1,5 @@
-vless://11046a7c-fa1b-4653-ab87-400feb465540@172.67.161.104:8880?type=ws&host=nameless-poetry-12fb.8-0a2.workers.dev#🇨🇦 Toronto
-vless://d042a74a-c305-4eec-a89f-39a348022c92@208.103.161.5:443?encryption=none&fp=chrome&host=dry-butterfly-8eb9.tmpgnacio83.workers.dev&path=%2F&security=tls&sni=dry-butterfly-8eb9.tmpgnacio83.workers.dev&type=ws#🇨🇦 Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpGRDNyQ3VPc3hPYXk=@15.235.75.71:8388#🇨🇦 Montreal
-vless://0787cfdb-9930-4abb-8419-c1b96c3ef628@172.67.190.141:8880?type=ws&host=red-snowflake-c399.12-ee1.workers.dev#🇨🇦 Toronto
 vmess://ewogICJhZGQiOiAiNjYuMTYzLjExMy4xNzYiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICIwNDYyMWJhZS1hYjM2LTExZWMtYjkwOS0wMjQyYWMxMjAwMDIiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMjIzMjQiLAogICJwcyI6ICLwn4eo8J+HpiBNb250cmVhbCIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogIiIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiLAogICJ2Y24iOiAiIgp9
 vless://661f395d-b153-4199-a04b-693f5fe7f261@158.69.112.254:443?security=reality&encryption=none&pbk=wo417FrFdjy7ZhccQ-VWGZEKcoCHSEfyWcJT1pIVc1Y&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=3d3c1e645f763ee3#🇨🇦 Montreal
-ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083#🇨🇦 Beauharnois
-vless://5da16620-0386-4da3-a252-12a6380ed1a6@server3.pegibol940.workers.dev:443?path=%2FeyJqdW5rIjoiUHRlMEpuSzRFY1EyeUUwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OTpiMDo2NDo6XSIsIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&encryption=none&insecure=0&host=server3.pegibol940.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=server3.pegibol940.workers.dev#🇨🇦 Toronto
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@104.18.12.229:8880?type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev#🇨🇦 Toronto
-vless://35b94b2c-1b46-4209-a04b-32ecf159b632@www.visa.com.sg:8880?type=ws&host=fragrant-tooth-2180.97-cbb.workers.dev#🇨🇦 Toronto
-vless://9ec16323-954c-4b09-aec9-367e18844fa8@channel.t-me-sh4dow-vpn.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=channel.t-me-sh4dow-vpn.workers.dev&path=%2FeyJqdW5rIjoiWlNHcnk5RHUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyNjAyOmZjNTk6MTE6NjQ6Ol0iXX0%3D&security=tls&type=ws#🇨🇦 Toronto
-vless://38135fde-7044-4407-8faf-e1ab08e47402@172.64.80.1:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=white-bush-712e.498-f8f.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 Toronto
-vless://fae09ec8-642b-4750-a019-27a97cd967fd@www.speedtest.net:443?path=%2FeyJqdW5rIjoib0FkbVU0Vm5ITkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6W119&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=ez-3e9698.ezaccess1ec1f0c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=ez-3e9698.ezaccess1ec1f0c.workers.dev#🇨🇦 Toronto
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?security=none&type=ws&path=/&host=vms.lifetime55.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 Toronto
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Montreal
-vless://baaa882d-ac50-4bba-bd8d-5486f7d34005@codecanyon.net:8880?type=ws&host=blue-water-924c.174-235.workers.dev#🇨🇦 Toronto
-vless://2500e602-671c-4654-a602-c518b7282167@www.digitalocean.com:8080?type=ws&sni=www.digitalocean.com&host=2639w-throbbing-band-3840.xphnn6jp.workers.dev&ed=2048#🇨🇦 Toronto
-vless://40af9131-d540-448a-bc56-5bba147a1dc3@27.50.49.154:2083?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=proxy-34l.pages.dev&type=ws&allowInsecure=0&sni=proxy-34l.pages.dev#🇨🇦 Montreal
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
-hy2://879ec4ed-139e-4204-82c4-4488aaae4699@104.222.222.222:4712/?sni=domin.com&obfs=salamander&obfs-password=WduP1W9fiqZLfRA93UKXRyN83l6#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?path=%2F&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=qq&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&type=ws&path=/&host=ccc.010304.xyz&security=tls&sni=ccc.010304.xyz&fp=chrome#🇨🇦 Toronto
