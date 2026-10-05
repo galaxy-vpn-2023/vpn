@@ -1,3 +1,14 @@
-vless://86c0996e-817e-409f-a732-ff9ef94917bd@s3.bamans.uk:443?mode=stream-up&path=%2F3a6b3b038ea34622bd1e13ec5798ab03&security=tls&alpn=h2&encryption=none&extra=%7B%22mode%22%3A%22stream-up%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D&insecure=0&type=xhttp&allowInsecure=0&sni=s3.bamans.uk#🇨🇦 Toronto
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
-vless://e3fb01b6-69b4-41d7-babf-696d992de194@freesocks.work:2052?encryption=none&type=ws&path=/@BlueKnight_net--@BlueKnight_net&host=uwu.blueknightnet.qzz.io&sni=uwu.blueknightnet.qzz.io#🇨🇦 Toronto
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206Y09pQyszSmhBWE13ZEdWNWV4bnJNU29ySlUwUmw1cWxMQ2JDQXVEbFdZND06SFdGRkpOMTlKa3ZiVEtvLzc5QWZuYlJCSzl1SFVVYUZOWkp5TGpFb0pHcz0=@51.222.107.43:2083#🇨🇦 Beauharnois
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@185.148.107.30:8880?encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Toronto
+vless://8546bcef-8456-41a2-82bc-d2231b42b769@104.21.88.129:8880?security=none&type=ws&path=/&host=small-tree-9ec0.84-971.workers.dev&packetEncoding=xudp&sni=small-tree-9ec0.84-971.workers.dev#🇨🇦 Toronto
+vless://f3d7ebbc-03a1-40f9-a911-ae8628d3927a@172.64.153.11:8880?security=none&type=ws&path=/pyip=ProxyIP.KR.CMLiussss.net&host=dawn-waterfall-6052.360-001.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 Toronto
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@114.129.43.30:8880?encryption=none&host=vms.lifetime04.workers.dev&security=none&type=ws#🇨🇦 Toronto
+vless://a0906133-bc17-49da-aa1a-d5ea99ee2e3e@www.speedtest.net:80?path=%2Fvl%2FfJ4da0JuWs0cSzwZSUqUlGE7TUEB7R%3Fed%3D2560&security=&encryption=none&host=prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev&type=ws#🇨🇦 Toronto
+vless://419b7a2c-9fa2-4870-b58a-0498ccc7d6c4@server16.peekconfig.workers.dev:443?alpn=http%2F1.1&ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&fp=chrome&host=server16.peekconfig.workers.dev&path=%2FeyJqdW5rIjoiYXdUWFpSYnZubU5hIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIiwiWzI2MDI6ZmM1OToxMTo2NDo6XSIsIlsyNjAyOmZjNTk6YjA6NjQ6Ol0iXX0%3D&security=tls&sni=sERveR16.pEeKCoNFIg.worKerS.DeV&type=ws#🇨🇦 Toronto
+vless://e081da45-9fae-4687-9376-f9a6a0dbbe83@104.20.28.233:80?type=ws&headerType=none&host=e33xr.qzz.io&path=%2Fid-amz#🇨🇦 Toronto
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.60.30:8880?encryption=none&host=vms.lifetime18.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Toronto
+vless://bba14c1d-f08c-4c9a-ac87-cf85d38d8aff@www.speedtest.net:2086?encryption=none&host=tight-thunder-ce8e.hamid-r-aliakbari1379-0f0.workers.dev&path=%2FeyJqdW5rIjoiRGtvTEVIeGU4cXFaTVVZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19&security=none&type=ws#🇨🇦 Toronto
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.85.118.50:8880?encryption=none&host=vms.lifetime55.workers.dev&path=%2F&security=none&type=ws#🇨🇦 Toronto
+vless://a0906133-bc17-49da-aa1a-d5ea99ee2e3e@www.speedtest.net:2052?path=%2Fvl%2FDfpeMOQOmjycq6uZzD8yacVWs%3Fed%3D2560&security=&encryption=none&host=prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev&type=ws#🇨🇦 Toronto
+vless://a0906133-bc17-49da-aa1a-d5ea99ee2e3e@prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev:80?path=%2Fvl%2FsFeNGORNKUyqDdfr2qh%3Fed%3D2560&security=&encryption=none&host=prop0yauife5z9t5sa5681bq1.rjsc50uq2-b6gdjw21gm-c154p.workers.dev&type=ws#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
