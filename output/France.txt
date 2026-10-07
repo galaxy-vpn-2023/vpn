@@ -1,2 +1,4 @@
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#🇫🇷 Paris
 hysteria2://ca78f919e6@155.94.134.183:11592?security=tls&obfs=salamander&alpn=h3&obfs-password=ec66908dbc46e6920143d9b684adf277&insecure=0&sni=srv-3fc7c9.21freedom.net#🇫🇷 Paris
+hysteria2://ca78f919e6@155.94.134.183:11592?sni=srv-3fc7c9.21freedom.net&obfs=salamander&obfs-password=ec66908dbc46e6920143d9b684adf277#🇫🇷 Paris
+hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@13.36.234.11:443?insecure=1&security=tls&sni=vpn-fr-001.fastervpn.world#🇫🇷 Paris
