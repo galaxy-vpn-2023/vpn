@@ -1,1 +1,2 @@
-vless://df53b6c2-8005-475c-9eb9-74e1be785dc8@157.228.155.185:443?security=reality&encryption=none&pbk=4q8nqNb-0c-akP3XqVmen67BLXJVlx48a_GDRw16nVg&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=5ea112e8#🇫🇷 Paris
+vless://e3k67dwms3@e3k67dwms3-51255166202-direct.tavafog.com:443?security=tls&alpn=h2&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=e3k67dwms3-51255166202-direct.tavafog.com#🇫🇷 Roubaix
+trojan://humanity@www.speedtest.net:443?path=/assignment&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs+udp://8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
