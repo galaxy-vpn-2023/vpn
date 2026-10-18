@@ -1,1 +1,2 @@
 ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@94.156.250.148:7001#🇬🇧 City of London
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@13.135.17.74:22223?encryption=none&security=none&type=tcp#🇬🇧 London
