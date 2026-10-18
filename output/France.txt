@@ -1,9 +1,8 @@
-trojan://humanity@104.18.9.83:443?path=%2Fassignment&security=tls&insecure=0&host=www.calmlunch.com&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-vless://126fdbae-bb34-5882-a40c-fb60c5ea4afb@149.202.57.89:443?security=tls&encryption=none&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&flow=xtls-rprx-vision&sni=rgiw5k0gg5-1492025789-direct.kheibarr.com#🇫🇷 Gravelines
-trojan://humanity@188.114.98.0:443?path=/assignment&security=tls&alpn=http/1.1&host=www.calmlunch.com&fp=chrome&type=ws&sni=www.calmlunch.com#🇫🇷 Paris
-trojan://humanity@188.114.98.0:443?path=%2Fassignment%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&fp=chrome&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-trojan://humanity@104.18.32.47:443?path=%2Fassignment&security=tls&insecure=0&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.146.230:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.197.117:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.197.117:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+ss://YWVzLTEyOC1nY206NjE2M2Q5ZDUzMmU0MGY0MTdkZDhlYmI1Zjk3MTY0OTU=@37.148.203.124:12238#🇫🇷 Strasbourg
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.197.117:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
 vless://c39f95b5-64b5-4f7a-a93d-fa9e9cf24de8@157.228.155.184:443?security=reality&encryption=none&pbk=uYU7UXkfNB-BEfjyrCUtRcN2JfFdlFWfMHCeX7bz4Qc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=e022bfea#🇫🇷 Paris
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.122.146:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
