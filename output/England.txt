@@ -1,1 +1,1 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@16.61.117.36:22224?encryption=none&security=none&type=tcp#🇬🇧 London
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford

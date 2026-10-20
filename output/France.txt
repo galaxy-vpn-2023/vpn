@@ -1,6 +1,2 @@
-trojan://humanity@141.101.115.104:443?path=%2Fassignment&security=tls&alpn=http%2F1.1&insecure=0&host=www.calmlunch.com&ech=dolts.ir%2Budp%3A%2F%2F1.1.1.1&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇫🇷 Paris
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:23202/?type=xhttp&encryption=none&flow=&sni=www.sony.com&security=reality&pbk=OfDHr_l4SrRA6CFtpaYKkAqZL8aJ6DIPtChiGFmevBE&sid=64f13b45aaa7ff#🇫🇷 Paris
-ss://YWVzLTEyOC1nY206NjE2M2Q5ZDUzMmU0MGY0MTdkZDhlYmI1Zjk3MTY0OTU=@37.148.203.124:12238#🇫🇷 Strasbourg
-vless://c39f95b5-64b5-4f7a-a93d-fa9e9cf24de8@157.228.155.184:443?security=reality&encryption=none&pbk=uYU7UXkfNB-BEfjyrCUtRcN2JfFdlFWfMHCeX7bz4Qc&headerType=none&fp=randomized&type=tcp&flow=xtls-rprx-vision&sni=addons.mozilla.org&sid=e022bfea#🇫🇷 Paris
-vless://a04c750d-3b71-493b-b2c1-6473ff1209dd@138.124.251.146:8443?security=reality&encryption=none&pbk=7ir7yQsY_ua6Kwita5_03iGZHhi1hWgjhVingIgtSXk&headerType=&fp=firefox&spx=%2F0f6ac3bda1db9c4&type=tcp&sni=npdev.uk&sid=38d9eba16a#🇫🇷 Paris
-vless://65dd4c23-8438-45b3-8ca6-1734337d3510@51.75.118.17:20338?path=/vless-ws&security=none&encryption=none&type=ws#🇫🇷 Roubaix
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.181.176.187:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
