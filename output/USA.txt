@@ -1,26 +1,24 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
 vless://18cf8db1-9f86-43f7-baa0-382efb7f2dfa@3h-unitedstates1.09vpn.com:80/?type=ws&encryption=none&flow=&host=3h-unitedstates1.09vpn.com&path=%2Fvless%2F#🇺🇸 Dallas
 vless://81a227e3-cb97-40fe-b7b6-45a60ed065cf@45.91.248.127:8443?mode=gun&security=reality&encryption=none&pbk=75SvxhvlOLct7K2eSg4-a1o6Z6N3JMTqp3wIQmLSqTA&fp=chrome&type=grpc&serviceName=grpc-api-v2&sni=node.nodebrcsp.ru&sid=8c609726e0233f08#🇺🇸 New York
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D2056#🇺🇸 Wheaton
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 Dallas
-vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&path=%2FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D1024#🇺🇸 Wheaton
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?cipher=aes-128-gcm#🇺🇸 Dallas
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe#🇺🇸 Wheaton
-vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D2056#🇺🇸 Wheaton
-vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&encryption=none&host=lucasjow.us.ci&type=ws&sni=lucasjow.us.ci#🇺🇸 Wheaton
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 Dallas
-vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.45.195:443?type=ws&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&path=%2F%3FTELEGRAM-TOOTFFARANGI&host=snip.edgeoneai.cc.cd#🇺🇸 Wheaton
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸 Dallas
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.216:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@172.64.150.43:443?encryption=none&type=ws&path=%2F&host=snip.edgeoneai.cc.cd&security=tls&sni=snip.edgeoneai.cc.cd&fp=unsafe#🇺🇸 Minneapolis
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.19.45.195:443?type=ws&security=tls&sni=snip.edgeoneai.cc.cd&fp=chrome&alpn=http%2F1.1&path=%2F%3FTELEGRAM-TOOTFFARANGI&host=snip.edgeoneai.cc.cd#🇺🇸 Westland
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 Dallas
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@104.18.37.127:443?path=/?Telegram---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP---pirozi_ArGaP&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇺🇸 Minneapolis
+vless://495c7195-85b8-498a-bf20-2ea9ce9175b5@www.speedtest.net:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=snip.edgeoneai.cc.cd&fp=chrome&type=ws&allowInsecure=0&sni=snip.edgeoneai.cc.cd#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?cipher=aes-128-gcm#🇺🇸 Dallas
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.167:443#🇺🇸 Dallas
 vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiUVpsN0hEeFNhYnIxRnVyVFlRSEZV@216.105.168.18:443#🇺🇸 Los Angeles
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?cipher=aes-128-gcm#🇺🇸 Phoenix
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🇺🇸 Phoenix
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 Phoenix
-vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Wheaton
-vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&path=%2F%3FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D2056#🇺🇸 Wheaton
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 New York
-vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Wheaton
-vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Wheaton
-vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048#🇺🇸 Wheaton
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?cipher=aes-128-gcm#🇺🇸 Phoenix
+vless://14c80e0e-f7ce-4991-94fc-99a1db4a9b1e@159.89.87.21:28190?encryption=none&flow=xtls-rprx-vision&type=raw&security=reality&sni=aws.amazon.com&fp=chrome&pbk=ZJRnFU-1s1JOnO8E9uZ7b00l1fPEh63fGRbdBANFRno&headertype=none#🇺🇸 Washington
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Minneapolis
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2048#🇺🇸 Minneapolis
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2048&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Lansing
+vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560#🇺🇸 Lansing
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:8443?encryption=none&security=tls&sni=lucasjow.us.ci&ech=cloudflare-ech.com%2Budp%3A%2F%2F8.8.8.8&type=ws&host=lucasjow.us.ci&path=%2F%3FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D2056#🇺🇸 Minneapolis
+vless://e6df2095-a73c-4043-8693-8d5a03686870@104.21.91.244:443?path=/?TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI?ed=2560&security=tls&alpn=http/1.1&encryption=none&insecure=0&host=lucasjow.us.ci&fp=chrome&ech=cloudflare-ech.com+udp://1.1.1.1&type=ws&allowInsecure=0&sni=lucasjow.us.ci#🇺🇸 Lansing
+vless://e6df2095-a73c-4043-8693-8d5a03686870@188.114.97.6:443?encryption=none&security=tls&sni=lucasjow.us.ci&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=lucasjow.us.ci&path=%2F%3FDailyConfigs---DailyConfigs---DailyConfigs%3Fed%3D2056#🇺🇸 Lansing
+vless://e6df2095-a73c-4043-8693-8d5a03686870@172.67.155.65:2053?path=%2F%3FTelegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET%3Fed%3D2560&security=tls&encryption=none&host=lucasjow.us.ci&type=ws&sni=lucasjow.us.ci#🇺🇸 Minneapolis
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?security=tls&obfs=salamander&obfs-password=uw9b2qq5rx&insecure=0&sni=fiproxy1.lockdwn.com#🇺🇸 Orem

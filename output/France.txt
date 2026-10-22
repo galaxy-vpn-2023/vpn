@@ -1,1 +1,3 @@
-vless://e4514801-0d5a-42ba-869f-39bd605aef9e@51.44.38.228:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22223?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22222?encryption=none&security=none&type=tcp#🇫🇷 Paris
+vless://e4514801-0d5a-42ba-869f-39bd605aef9e@35.180.246.59:22224?encryption=none&security=none&type=tcp#🇫🇷 Paris
