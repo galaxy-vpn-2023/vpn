@@ -1,1 +1,1 @@
-vless://7060231d-b9ba-495f-a218-bf427940cf3e@18.175.117.127:443?security=&encryption=none&host=play.googleapis.com&headerType=http&type=tcp#🇬🇧 London
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.181:443#🇬🇧 Stretford
