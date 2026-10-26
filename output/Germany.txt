@@ -1,13 +1,14 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOY0FYYzBVWkk2eVFKRTFwOFFtT3Y4@57.129.113.16:8388#🇩🇪 Frankfurt am Main
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.176.204.18:19999#🇩🇪 Frankfurt
+vless://8815925b-c7b8-4f94-9c24-9dc864f63a29@77.90.61.135:443?encryption=none&security=reality&sni=www.cloudflare.com&fp=chrome&pbk=XlEzAhUOUC-hZA2Uk2sctG5WR9lPeAUAHGNQVu9oAVg&sid=ce1dc482&type=tcp&headerType=none#🇩🇪 Frankfurt am Main
 hysteria2://tnnls:b735eacd-3ca7-4019-b98c-3559918100e6@bwdf2fnt.xn--e1aatfr8bwa.online:30000?security=tls&obfs=salamander&obfs-password=b6d1f3888ab1d90dd11aac1dce427b81&insecure=0&sni=bwdf2fnt.xn--e1aatfr8bwa.online#🇩🇪 Frankfurt am Main
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#🇩🇪 Frankfurt am Main
 hysteria2://Telegram:vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇩🇪 Frankfurt am Main
 hysteria2://8z2e26xkqsa598s3@gift-catalog.aroonia.ir:52000?security=tls&obfs=salamander&obfs-password=6cmj1dymhm79hopl&insecure=0&sni=gift-catalog.aroonia.ir#🇩🇪 Frankfurt am Main
-hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
+hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
 hysteria2://Telegram-vpnjey@31.76.27.23:37009?sni=de.vpnjey.store&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇩🇪 Frankfurt am Main
 hysteria2://Telegram-Vpnjey@179.61.138.145:54759?security=tls&insecure=1&pinSHA256=2dc4ced5b2f11471396071e90a76ae60273b2808ece4f07ef46a7a306350ee24&obfs=salamander&obfs-password=Telegram@vpnjey&fastopen=0#🇩🇪 Frankfurt am Main
-hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
-hy2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.158.96.132:443?insecure=1&sni=vpn-de-002.fastervpn.world#🇩🇪 Frankfurt
 hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
 hysteria2://QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s@162.249.125.133:443?security=tls&obfs=salamander&obfs-password=c1b4086fea89914496c7e10967a419216566&insecure=0&sni=hy2-new.aspidnet.xyz#🇩🇪 Frankfurt am Main
+hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
+hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#🇩🇪 Frankfurt am Main
+hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main

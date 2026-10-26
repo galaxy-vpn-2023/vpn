@@ -1,6 +1,10 @@
-trojan://humanity@188.114.97.6:443?path=%2Fassignment%3Fed%23Telegram---bored_vpn&security=tls&insecure=0&host=www.calmlunch.com&ech=ip.gs%2Budp%3A%2F%2F8.8.8.8&type=ws&allowInsecure=0&sni=www.calmlunch.com#🇨🇦 Toronto
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@130.250.137.30:8880?security=none&type=ws&path=/&host=vms.lifetime05.workers.dev&packetEncoding=xudp#🇨🇦 Toronto
 vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?encryption=none&type=raw&security=reality&sni=www.cloudflare.com&fp=firefox&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&sid=83f8317a948bb769&headertype=none#🇨🇦 Montreal
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@51.79.64.198:8119#🇨🇦 Montreal
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#🇨🇦 Vancouver
 vless://d342d11e-d224-4463-b982-532309285094@cf.877774.xyz:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=/#🇨🇦 Toronto
-vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2Ffp%23TELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@192.65.217.30:8880?security=none&type=ws&path=/&host=vms.lifetime37.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 Toronto
 hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
 hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
