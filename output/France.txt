@@ -1,1 +1,2 @@
-vless://28148be2-61a7-4f36-8adb-030cc9f82bd0@62.210.24.143:32202?encryption=none&fp=&mode=auto&path=%2FG3EEoH63&pbk=bGe_-nAtOq6_w_2mv6pcmD8RzJP65Tti-vyMP2hAwDc&security=reality&sid=f57d8f26&sni=www.amazon.com&type=xhttp#🇫🇷 Paris
+hysteria2://dfo5i9p6payp29i0@ll5xoe8j.easyiran.org:22357?security=tls&obfs=salamander&obfs-password=qkdqum5rllpyup7h&insecure=0&sni=ll5xoe8j.easyiran.org#🇫🇷 Aubervilliers
+hy2://dfo5i9p6payp29i0@ll5xoe8j.easyiran.org:22357/?hop_interval=10&sni=ll5xoe8j.easyiran.org&obfs=salamander&obfs-password=qkdqum5rllpyup7h#🇫🇷 Aubervilliers
