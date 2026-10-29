@@ -1,10 +1,9 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#🇨🇦 Vancouver
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
-ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Montreal
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.227.39.30:8880?&type=ws&headerType=none&host=vms.lifetime17.workers.dev&path=%2F#🇨🇦 Toronto
-vless://d342d11e-d224-4463-b982-532309285094@172.66.154.57:443?encryption=none&security=tls&sni=ccc.010304.xyz&type=ws&host=ccc.010304.xyz&path=%2F#🇨🇦 Toronto
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@45.131.209.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime04.workers.dev&packetEncoding=xudp&encryption=none#🇨🇦 Toronto
-vless://40ca0d8c-0641-4e2d-a701-9fd8330daf6d@128.241.25.11:30021?path=%2F%40Marisa_kristi&security=tls&encryption=none&insecure=0&host=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=wkytah9k8oggj60.qzfi0skkopy875xhtc0l9pwds.workers.dev#🇨🇦 Toronto
-vless://6202b230-417c-4d8e-b624-0f71afa9c75d@172.64.150.28:8880/?type=ws&encryption=none&flow=&host=vms.lifetime29.workers.dev&path=/#🇨🇦 Toronto
-hysteria2://Telegram:vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@88.216.69.253:443?path=%2Ffp&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@104.21.221.158:443?path=/&security=tls&encryption=none&insecure=0&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D512&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@172.64.152.241:443?path=%2F%3FTELEGRAM--MARAMBASHI--MARAMBASHI--MARAMBASHI--MARAMBASHI%3Fed%3D2560&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+vless://d342d11e-d224-4463-b982-532309285094@104.18.35.15:443?path=%2Ffp%3Dchrome%3Fed%23Telegram---PLANB_NET---PLANB_NET---PLANB_NET---PLANB_NET&security=tls&encryption=none&insecure=0&host=ccc.010304.xyz&fp=chrome&type=ws&allowInsecure=0&sni=ccc.010304.xyz#🇨🇦 Toronto
+hysteria2://418ddc75-aa9c-4e5d-a9a3-82c50a5a02b6@51.75.118.5:20222?sni=www.google.com&obfs=salamander&obfs-password=ad7088dafb02115c&insecure=1#🇨🇦 Montreal
 hysteria2://Telegram-vpnjey@77.110.96.201:36264?sni=se.vpnjey2.dpdns.org&alpn=h3&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=1#🇨🇦 Toronto
