@@ -1,29 +1,24 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#🇺🇸 Newark
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#🇺🇸 Atlanta
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@45.86.51.18:19999#🇺🇸 Ashburn
-ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#🇺🇸 Los Angeles
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@95.215.201.18:19999#🇺🇸 Phoenix
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#🇺🇸 Reston
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?cipher=aes-128-gcm#🇺🇸 Dallas
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInJhdyIsCiAgInBhdGgiOiAiIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImFlcy0xMjgtZ2NtIiwKICAic25pIjogIiIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIiwKICAidmNuIjogIiIKfQ==
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#🇺🇸 Atlanta
+vless://49ccad64-c854-4f33-b334-793cf0d02b74@104.17.98.5:443?encryption=none&type=ws&path=/&host=newcf.jisucf.cloudns.ch&security=tls&sni=newcf.jisucf.cloudns.ch#🇺🇸 Los Angeles
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#🇺🇸 Newark
+ss://MjAyMi1ibGFrZTMtYWVzLTEyOC1nY206TnpKbE9UUTVOV1l0TTJaa1lpMDBDZz09@103.11.76.248:28679#🇺🇸 Los Angeles
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@45.86.51.18:19999#🇺🇸 Ashburn
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.219:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 New York
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸 Dallas
-vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIsCiAgInZjbiI6ICIiCn0=
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.225:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-vless://c14ec728-3eca-4750-87fc-fd1e6aeb81d5@195.123.235.183:443?security=reality&type=tcp&packetEncoding=xudp&sni=gateway.icloud.com&fp=chrome&flow=xtls-rprx-vision&sid=a0e2a6074c6456b0&pbk=H3R3BUAl7thrIZsznTbb-eRREIjQOH2f3WO0oTN7OGY#🇺🇸 Secaucus
-vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HuvCfh7ggQXRsYW50YSIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogImxlYXJuLmhlYWx0aGNhcmVqb2JzaHViZW5oYW5jZW1lZGljYWxwcm9mZXNzaW9uYWxza2lsbHN0b2RheS5jb20iLAogICJ0bHMiOiAiIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIgp9
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.235:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.114.166:443?security=tls&sni=blog.findconnectwithemployersandbuildprofessionalnetwork.com#🇺🇸 Denver
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?cipher=aes-128-gcm#🇺🇸 Phoenix
-vmess://ewogICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIiIsCiAgInBjcyI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HuvCfh7ggTWlhbWkiLAogICJzY3kiOiAiYXV0byIsCiAgInNuaSI6ICIiLAogICJ0bHMiOiAiIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIiwKICAidmNuIjogIiIKfQ==
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
-vmess://ewogICJhZGQiOiAiMTY5LjE5Ny4xNDIuMjIiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIvIiwKICAicG9ydCI6ICIxODAwMCIsCiAgInBzIjogIvCfh7rwn4e4IFNhbnRhIENsYXJhIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&sni=api.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Santa Clara
-vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.206:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
-vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?security=reality&encryption=none&pbk=H56cOJhw0xw76lDEpt7IuJJmVGemK6_CK34KtHwDMX8&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.amazon.com#🇺🇸 Santa Clara
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443?cipher=aes-128-gcm#🇺🇸 Dallas
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@ww13.levikogjgfdd.ir:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn&sid=01#🇺🇸 Reston
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpTU2NOMlFLN21SOXBWNHhI@96.45.186.114:8443?#🇺🇸 Los Angeles
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.104:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443?cipher=aes-128-gcm#🇺🇸 Phoenix
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?encryption=none&type=tcp&flow=xtls-rprx-vision&security=reality&sni=fuck.rkn&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&sid=01&allowInsecure=1#🇺🇸 Reston
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.197:23576?security=reality&encryption=none&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=fuck.rkn#🇺🇸 Reston
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.156.42:443?security=tls&sni=blog.healthcarejobshubenhancemedicalprofessionalskillstoday.com&fp=&type=tcp#🇺🇸 Atlanta
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Miami
+vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInJhdyIsCiAgInBhdGgiOiAiIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImFlcy0xMjgtZ2NtIiwKICAic25pIjogIiIsCiAgInRscyI6ICJub25lIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIiwKICAidmNuIjogIiIKfQ==
+vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIsCiAgInZjbiI6ICIiCn0=
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWlJ5NFEzUUgwalVHZktGbDJqRENa@138.197.89.234:28960#🇺🇸 Clifton
-hysteria2://h05ff7mbgbj6dhwy@panel.trapxan.ir:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=panel.trapxan.ir#🇺🇸 Santa Clara
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.168:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
+vless://5d7b401c-78fa-4254-872e-6d42bf7e75ec@162.159.130.234:2096?path=/p&security=tls&encryption=none&insecure=0&host=vp8.1145678.xyz&fp=chrome&type=ws&allowInsecure=0&sni=vp8.1145678.xyz#🇺🇸 East Los Angeles
 hysteria2://eBTe6Ax2pUts8oMEWoYVDfnSlHfkLffQ@nas.aizhzo.com:5010?security=tls&obfs=salamander&obfs-password=7M4RXPFcQyQEGbkxBPfXo4bilMhCW2U9&insecure=0&sni=nas.aizhzo.com#🇺🇸 Tigard
