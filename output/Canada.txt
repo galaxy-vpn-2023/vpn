@@ -1,1 +1,2 @@
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443?prefix=%16%03%01%00%C2%A8%01%01#🇨🇦 Vancouver
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@62.72.166.30:8880?security=none&type=ws&path=%2F&host=vms.lifetime40.workers.dev&packetEncoding=xudp&sni=vms.lifetime40.workers.dev#🇨🇦 Toronto
