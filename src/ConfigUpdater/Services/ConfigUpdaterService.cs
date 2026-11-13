@@ -53,7 +53,8 @@ public static class SetAdsRouteService
             "https://raw.githubusercontent.com/barry-far/V2ray-config/main/Sub1.txt",
             "https://raw.githubusercontent.com/SoliSpirit/v2ray-configs/main/Subscriptions/Sub5.txt",
             "https://raw.githubusercontent.com/10ium/V2rayCollectorLite/main/ss_iran.txt",
-            "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix"
+            "https://raw.githubusercontent.com/iboxz/free-v2ray-collector/main/main/mix",
+			"https://raw.githubusercontent.com/SeyedNG/proxy/refs/heads/main/configs/proxy_configs_tested.txt"
         };
 
         foreach (var url in urls)
