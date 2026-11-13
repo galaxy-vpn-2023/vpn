@@ -1,5 +1,10 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaDNoYjJncHRxejZzdXl0@198.100.154.175:8080#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#🇨🇦 Montreal
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@172.67.74.177:443?path=%2F%3FTELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM%3Fed%3D2560&security=tls&encryption=none&host=fs.qicai99.com&type=ws&sni=fs.qicai99.com#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaDNoYjJncHRxejZzdXl0@198.100.154.175:8080#🇨🇦 Montreal
+vless://dc620cd6-a9d8-4a0f-8f18-006b895db77e@66.70.179.198:2053?fp=firefox&path=%2F&pbk=k4l6TxwkBbx9DhZAFpByq5rfCWFSgyOex3f_eFe9CWU&security=reality&sid=83f8317a948bb769&sni=www.cloudflare.com&type=tcp#🇨🇦 Montreal
+vless://f333ac5d-1e0b-4947-a123-7bb605803ad8@209.200.246.203:2066?encryption=none&flow=xtls-rprx-vision&security=reality&sni=tiktok.com&fp=chrome&pbk=kLCwYNBhCg68BQah9El1lNg6GQ7-7Y7xfTtIs6MiTEg&sid=d18f4e&type=tcp&headerType=none#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.222.136.236:8882#🇨🇦 Montreal
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@fs.qicai99.com:443?path=%2F&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇨🇦 Toronto
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@yx.l110.us.ci:443?path=/&security=tls&encryption=none&insecure=0&host=fs.qicai99.com&fp=chrome&type=ws&allowInsecure=0&sni=fs.qicai99.com#🇨🇦 Toronto
+vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@162.159.198.1:443?path=/&security=tls&encryption=none&host=fs.qicai99.com&fp=chrome&type=ws&sni=fs.qicai99.com#🇨🇦 Toronto
