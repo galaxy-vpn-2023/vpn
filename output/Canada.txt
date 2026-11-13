@@ -1,2 +1,4 @@
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Montreal
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&type=tcp&sni=api.connectingpeoplewithgreatjobs.com&fp=chrome#🇨🇦 Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Montreal
-vless://99c5b713-dedf-4a10-8070-916ff3f49b0e@104.21.41.243:443?encryption=none&security=tls&type=ws&path=%2F&host=fs.qicai99.com&sni=fs.qicai99.com&fp=chrome#🇨🇦 Toronto
+vless://ac532d5e-2b9c-45a2-85df-37b3b74cffde@fast-route-4aa49d-gw.staging-api-05a87c.workers.dev:443?path=%2F9dffa10cc2d3b317%3Fed%3D2560&security=tls&alpn=http%2F1.1&encryption=none&insecure=0&host=fast-route-4aa49d-gw.staging-api-05a87c.workers.dev&fp=chrome&type=ws&allowInsecure=0&sni=fast-route-4aa49d-gw.staging-api-05a87c.workers.dev#🇨🇦 Toronto
