@@ -1,10 +1,21 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaDNoYjJncHRxejZzdXl0@198.100.154.175:8080#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Montreal
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Beauharnois
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpreGhudDVqdHlrZDMyOGNn@15.235.57.6:8080#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozaDNoYjJncHRxejZzdXl0@198.100.154.175:8080#🇨🇦 Montreal
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=learn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080?#🇨🇦 Montreal
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@54.39.96.233:8080#🇨🇦 Montreal
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#🇨🇦 Montreal
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Beauharnois
 vmess://ewogICJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4eo8J+HpiBUb3JvbnRvIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
-vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICLwn4eo8J+HpiBUb3JvbnRvIiwKICAiYWRkIjogIjEzNC4xOTUuMTk2LjIxMSIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJhaWQiOiAiMCIsCiAgInNjeSI6ICJhdXRvIiwKICAibmV0IjogInRjcCIsCiAgInR5cGUiOiAibm9uZSIsCiAgImhvc3QiOiAiIiwKICAicGF0aCI6ICIiLAogICJ0bHMiOiAiIiwKICAic25pIjogIiIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgInZjbiI6ICIiLAogICJwY3MiOiAiIgp9
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@15.235.121.109:8080#🇨🇦 Beauharnois
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NzVoaW9wcTJoMjh5YW82@leviko-ca8416.shopingggg.ir:8080#🇨🇦 Montreal
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyY3ZocHZkZzR4N212YnBz@leviko-ca4638.shopingggg.ir:8080#🇨🇦 Montreal
+vless://ccaa9413-2163-466e-a915-29c215b0be0a@netra-28e601.ruzgarsis053gmailcomsaccount.workers.dev:443?encryption=none&security=tls&sni=nEtRa-28e601.rUZgArSiS053GmAIlCoMsaccOunT.WORKERs.DEV&fp=chrome&alpn=http%2F1.1&type=ws&host=netra-28e601.ruzgarsis053gmailcomsaccount.workers.dev&path=%2Fvl%2FD1utewa490l8iCymueVABy77F5t%3Fed%3D2560#🇨🇦 Toronto
+hysteria2://99a271e85dbc4aa8950f9c7beee06b19@ide.vipvirtualnet.eu:30746?security=tls&obfs=salamander&alpn=h3&obfs-password=7wjvepshx5g115x4&insecure=0&sni=del.vipvirtualnet.eu#🇨🇦 Toronto
