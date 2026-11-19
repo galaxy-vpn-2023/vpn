@@ -1,12 +1,1 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4MTlweTBhOGlwZ2xxa2Jl@51.77.144.182:8080#🇫🇷 Strasbourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080#🇫🇷 Strasbourg
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080?spx=/?TELEGRAM--B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub-B2Hub--TELEGRAM#🇫🇷 Strasbourg
 vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?encryption=none&security=reality&sni=w-x.co&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&sid=1296174a86a6ac8c&type=tcp&headerType=none#🇫🇷 Paris
-vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?security=reality&encryption=none&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&headerType=none&type=tcp&sni=w-x.co&sid=1296174a86a6ac8c#🇫🇷 Paris
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyOWlycWswcGFha2N4MTl2@51.83.61.102:8080?#🇫🇷 Strasbourg
-vless://6962c372-27da-56d6-9d1f-8041abb7538e@fr.abbaas.net:443?encryption=none&fp=&pbk=wBh3jtk45kBonp2-uVqsx71F4ziNH7vZcU6DAC6t2xs&security=reality&sid=1296174a86a6ac8c&sni=w-x.co&type=tcp#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.27:19999#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.22:19999#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.64.175:19999#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@23.162.152.22:19999#🇫🇷 Paris
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@172.99.189.142:19999#🇫🇷 Paris
