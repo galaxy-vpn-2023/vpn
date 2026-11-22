@@ -1,3 +1,2 @@
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999?type=tcp#🇬🇧 Stanmore
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#🇬🇧 Stanmore
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Stretford
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇬🇧 Slough
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#🇬🇧 London

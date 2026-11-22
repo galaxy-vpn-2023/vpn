@@ -1,117 +1,71 @@
+vless://59548d2d-5d7c-4328-aa81-0d5614da0c1b@198.247.127.131:443?encryption=none&flow=xtls-rprx-vision&fp=firefox&pbk=vmHHRwA9ER6c8dfgtL-gh2HBMCvjySy1xLimqYpLiCI&security=reality&sni=addons.mozilla.org&type=tcp#🇺🇸 New York
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpEWlJ5NFEzUUgwalVHZktGbDJqRENa@138.197.89.234:28960#🇺🇸 Clifton
-trojan://f0eb8c92ce8946aaba856569cff1a16b@resources.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Seattle
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.163.18:19999#🇺🇸 Newark
 ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@200.102.179.179:8388#🇺🇸 New York
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Seattle
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 Dallas
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Ashburn
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.46:443?security=tls&sni=searchnationwidecareerchangehelperandguidancetoday.com&type=tcp&headerType=none#🇺🇸 Ashburn
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.158:443?security=tls&sni=resources.nextjobopportunityandclaimyouridealrole.com&type=tcp&headerType=none#🇺🇸 Chicago
-vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 Henrico
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTplRGZON1NPRFFjZUlPbUlBYnRKSnRL@198.98.53.130:443#🇺🇸 Staten Island
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.176:443?security=tls&insecure=0&type=tcp&allowInsecure=0&sni=blog.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Chicago
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.215.132.18:19999#🇺🇸 Atlanta
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.30:443?security=tls&fp=chrome&sni=resources.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Ashburn
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.7:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.searchnationwidecareerchangehelperandguidancetoday.com#🇺🇸 Ashburn
 ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.9:19999#🇺🇸 Miami
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com&type=tcp#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Dallas
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.81:443?security=tls&sni=courses.searchnationwidecareerchangehelperandguidancetoday.com&insecure=0&allowInsecure=0&type=tcp&headerType=none#🇺🇸 Ashburn
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&headerType=none&type=tcp&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?fp=chrome&sni=resources.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.155.23:443?security=tls&sni=courses.nextjobopportunityandclaimyouridealrole.com#🇺🇸 Chicago
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.122.26:443?fp=chrome&security=tls&sni=blog.searchnationwidecareerchangehelperandguidancetoday.com&type=tcp#🇺🇸 Ashburn
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Detroit
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.53:443?security=tls&sni=www.explorecreativejobsandenhanceyourcareerportfolio.com#🇺🇸 Detroit
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.67:443?security=tls&sni=courses.explorecreativejobsandenhanceyourcareerportfolio.com&type=tcp&headerType=none#🇺🇸 Detroit
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@170.101.101.237:443?security=tls&sni=cdn.explorecreativejobsandenhanceyourcareerportfolio.com&insecure=0#🇺🇸 Detroit
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVVhzeTc4ZFNzNlJPa2FzaWttb2FM@104.238.140.45:11051#🇺🇸 Los Angeles
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 New York
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.6:443#🇺🇸 Phoenix
+vless://055a1ce8-2a16-4a0d-a2c2-22826c9b2413@47.253.226.114:443?security=reality&encryption=none&pbk=Svl81isn16RPAFnjtmYw7A6TPnsEPLHuYYaJht65Rzc&headerType=none&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com#🇺🇸 Henrico
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@173.244.56.9:443#🇺🇸 Phoenix
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 New York
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.165:443#🇳🇱 Amsterdam
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@47.245.167.223:443#🇩🇪 Frankfurt am Main
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.168:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.220:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.234:8080#🇳🇱 Amsterdam
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.112.121:443?fp=chrome&security=tls&sni=www.unlockyourfuturefindyourperfectcareer.com&type=tcp#🇺🇸 Phoenix
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.187:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.208:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.180:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.47:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@193.29.139.198:8080#🇳🇱 Amsterdam
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999?type=tcp#🇬🇧 Stanmore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@193.29.139.212:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.66:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.235:443#🇳🇱 Amsterdam
-ss://MjAyMi1ibGFrZTMtY2hhY2hhMjAtcG9seTEzMDU6OHlPM0FOV2VmdXVHczFsUktYRUNRQTFGRWh4bFdGVjJwcFFNY0JhWm81WT0=@8.209.106.54:443#🇩🇪 Frankfurt am Main
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#🇺🇸 Dallas
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@15.204.246.108:8881#🇺🇸 Reston
+vless://1bd6c8a2-01db-4a3d-8b2c-0b2f2c3e8b5a@38.244.5.231:443?security=reality&encryption=none&pbk=DUpNPvLjiL1GzeF7DfKWba-LYLz1KPuQXewhgNGPiDM&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=www.cloudflare.com&sid=ab0a5b56#🇺🇸 Los Angeles
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.168:443#🇺🇸 Dallas
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 New York
-vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiLz9URUxFR1JBTS0tQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItLVRFTEVHUkFNIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIsCiAgInZjbiI6ICIiCn0=
-vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HuvCfh7ggQXNoYnVybiIsCiAgInNjeSI6ICJub25lIiwKICAic25pIjogIiIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.230.230.18:19999#🇺🇸 Washington
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.214:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=courses.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Miami
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com&insecure=0#🇺🇸 Miami
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@169.197.140.245:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.discoverfreshgraduatejobsstartyourprofessionaljourney.com#🇺🇸 Miami
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com&encryption=none#🇺🇸 New York
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.202:443?alpn=networld_vpn-channel&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇺🇸 New York
-vless://00144519-7e0d-476b-8d28-435576af9262@167.17.69.171:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=www.cloudflare.com&fp=edge&pbk=ALT8hIGeZEhi0sQFbXP_ntBg8Xo-v7i0YCLrqTnBxRk&sid=0990d22f&type=tcp&headerType=none#🇺🇸 New York
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:4444#🇺🇸 Reston
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#🇨🇦 Montreal
-trojan://dba20dcb635e430fa4d3bfc303a149d2@blog.findlocaljobnetworkandbuildcommunityconnections.com:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=blog.findlocaljobnetworkandbuildcommunityconnections.com#🇺🇸 Seattle
+vmess://ewogICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsCiAgImlkIjogImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBNaWFtaSIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogIiIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.169:443#🇺🇸 Dallas
 vmess://ewogICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIiIsCiAgInBjcyI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HuvCfh7ggTWlhbWkiLAogICJzY3kiOiAiYXV0byIsCiAgInNuaSI6ICIiLAogICJ0bHMiOiAiIiwKICAidHlwZSI6ICJub25lIiwKICAidiI6ICIyIiwKICAidmNuIjogIiIKfQ==
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@15.204.247.244:443#🇺🇸 Reston
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@15.204.247.124:2375#🇺🇸 Reston
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=raw#🇨🇦 Toronto
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Tokyo
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?encryption=none&security=tls&sni=kuruish.org&packetEncoding=xudp#🇨🇦 Montreal
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Tokyo
-vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.163:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.200:8080?type=tcp&headerType=none#🇳🇱 Amsterdam
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@198.244.202.215:19999#🇬🇧 Stanmore
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.201:8080?type=tcp&headerType=none#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpYZDRHOXhuN0FnVDg4bXNDWUM5TVpmYXZNVXFkM2RXRk5BdnN3aTZLZmFEOVljZXhwdE1iUG40Y1NFQ0VNekRndkFNb21BV0pIeXdlcUplcjk5c3NNVllHSDZUSzhrNGM=@216.172.144.199:40643#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.210:8080#🇳🇱 Amsterdam
+vless://40992c2a-513e-4837-9594-23411fd42afd@146.190.16.218:443?encryption=none&headerType=http&host=fast.com&path=/&security=none&type=tcp#🇳🇱 Amsterdam
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.52:443?security=tls&sni=courses.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Santa Clara
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKVVhzeTc4ZFNzNlJPa2FzaWttb2FM@104.238.140.45:11051#🇺🇸 Los Angeles
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.20:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=api.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Santa Clara
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.198:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Santa Clara
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@167.88.61.193:443?security=tls&headerType=none&type=tcp&sni=browseseniorrolesandenhanceyourcareertoday.com#🇺🇸 Santa Clara
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.214:23576?encryption=none&security=reality&sni=fuck.rkn&fp=random&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&packetEncoding=xudp&insecure=0&flow=xtls-rprx-vision#🇺🇸 Reston
+vless://48ff2b70-e180-582f-8866-d9a2edeed5f5@15.204.97.198:23576?security=reality&type=tcp&packetEncoding=xudp&sni=fuck.rkn&fp=chrome&flow=xtls-rprx-vision&pbk=1y5h2FGWKXTJ9xLPCqPo6Mw7RxoZzh6fGkEQKNxpZ3s&encryption=none#🇺🇸 Reston
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@193.151.160.18:19999#🇺🇸 Miami
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@185.230.230.18:19999#🇺🇸 Washington
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@38.128.66.32:19999#🇺🇸 Chicago
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.243:443#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.236:443#🇺🇸 New York
+vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJpbnNlY3VyZSI6ICIwIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiLz9URUxFR1JBTS0tQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItQjJIdWItLVRFTEVHUkFNIiwKICAicGNzIjogIiIsCiAgInBvcnQiOiAiMTgwMDAiLAogICJwcyI6ICLwn4e68J+HuCBBc2hidXJuIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIsCiAgInZjbiI6ICIiCn0=
+ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@162.251.62.31:19999#🇺🇸 Miami
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#🇨🇦 Montreal
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.244:443#🇺🇸 New York
+vmess://ewogICJhZGQiOiAiMzguOTEuMTA3LjQ5IiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwKICAibmV0IjogInRjcCIsCiAgInBhdGgiOiAiIiwKICAicG9ydCI6ICIxODAwMCIsCiAgInBzIjogIvCfh7rwn4e4IE1pYW1pIiwKICAic2N5IjogImF1dG8iLAogICJzbmkiOiAiIiwKICAidGxzIjogIiIsCiAgInR5cGUiOiAibm9uZSIsCiAgInYiOiAiMiIKfQ==
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.90:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com&encryption=none#🇺🇸 New York
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#🇨🇦 Montreal
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.74:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?type=raw&security=reality&flow=xtls-rprx-vision&fp=chrome&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&sid=c39cc7310a&sni=yahoo.com&encryption=none#🇺🇸 New York
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@169.40.42.35:443?security=reality&encryption=none&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=yahoo.com&sid=c39cc7310a#🇺🇸 New York
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.204:443#🇯🇵 Tokyo
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@leviko-nl8920.shopingggg.ir:443?type=tcp#🇳🇱 Amsterdam
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.241:443#🇯🇵 Tokyo
+vless://40992c2a-513e-4837-9594-23411fd42afd@178.62.115.66:443?encryption=none&headerType=http&host=store.steampowered.com&path=/&security=none&type=tcp#🇬🇧 Slough
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@37.19.198.160:443#🇺🇸 New York
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.87.240:443#🇯🇵 Tokyo
+vless://65c21703-ae89-4eed-ae87-8bec8a4c000c@tachu37.top:443?encryption=none&security=tls&sni=tachu37.top&fp=chrome&alpn=http/1.1&type=ws&host=tachu37.top&path=/js#🇺🇸 Los Angeles
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@158.173.24.73:443#🇬🇧 London
+vless://d65cc14c-f53f-4fe2-b262-97856601319c@45.144.112.55:443?encryption=none&flow=xtls-rprx-vision&pbk=e2RLf57Li_-MDZGE9ss1BWPgP54mqRb5PfXhW2jcVVg&security=reality&sid=c39cc7310a&sni=yahoo.com&type=tcp#🇺🇸 Lockport
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.214:8080#🇳🇱 Amsterdam
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@141.98.101.178:443#🇬🇧 Stretford
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.176:8080#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.192:8080?#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@82.38.31.61:8080?#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.198:8080?#🇳🇱 Amsterdam
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprMWRCT21PQjRvcWk3VW1wMzdhMWJR@82.38.31.184:8080#🇳🇱 Amsterdam
+vmess://ewogICJhZGQiOiAiNjcuMjIwLjk1LjMiLAogICJhaWQiOiAiMCIsCiAgImFscG4iOiAiIiwKICAiZnAiOiAiIiwKICAiaG9zdCI6ICIiLAogICJpZCI6ICJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLAogICJuZXQiOiAidGNwIiwKICAicGF0aCI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HuvCfh7ggQXNoYnVybiIsCiAgInNjeSI6ICJub25lIiwKICAic25pIjogIiIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiCn0=
 hysteria2://d1gkicdgem3bsoaa@panel.autonetshop.ir:43345?security=tls&obfs=salamander&obfs-password=km9oqmefh2km1i5n&insecure=0&sni=panel.autonetshop.ir#🇹🇷 Sancaktepe
 hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?security=tls&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&insecure=0&sni=quotes.ali-khamenei.world#🇩🇪 Frankfurt
-hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&insecure=1&obfs=salamander&obfs-password=HATATEAYA#🇩🇪 Kirchberg
 hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&obfs=salamander&obfs-password=v0qq015d7c8zgzu7#🇩🇪 Frankfurt
-hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018/?obfs=salamander&obfs-password=v0qq015d7c8zgzu7&sni=quotes.ali-khamenei.world#🇩🇪 Frankfurt
-hy2://gG1JyjbJgDmEMvdTgcD9wVOS@35.221.91.82:443/?sni=www.microsoft.com#🇺🇸 El Segundo
-hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
+hy2://gG1JyjbJgDmEMvdTgcD9wVOS@35.221.91.82:443/?sni=www.microsoft.com#🇺🇸 Seattle
 hysteria2://5ictxgawam84vgrp@109.70.74.213:2098?security=tls&obfs=salamander&obfs-password=7922smqtd5qm70fu&insecure=0&sni=109.70.74.213#🇩🇪 Frankfurt am Main
+hysteria2://KevinZakarian@179.61.132.96:8443?security=tls&obfs=salamander&obfs-password=KevinZakarian&insecure=1&sni=179.61.132.96#🇩🇪 Frankfurt am Main
+hysteria2://HATATEAYA@77.90.15.183:8964?sni=ganlanc.at&insecure=1&obfs=salamander&obfs-password=HATATEAYA#🇩🇪 Kirchberg
+hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018/?obfs=salamander&obfs-password=v0qq015d7c8zgzu7&sni=quotes.ali-khamenei.world#🇩🇪 Frankfurt
 hysteria2://5s7qa8f78hznlw8g@3.120.145.15:41018?sni=quotes.ali-khamenei.world&insecure=0&obfs=salamander&obfs-password=v0qq015d7c8zgzu7&upmbps=0&downmbps=0#🇩🇪 Frankfurt
+hysteria2://b7941807-1f4d-4bda-a878-92d708b84494@46.8.210.33:8446?security=tls&obfs=salamander&obfs-password=nTm4oBa6QCpWoAFDVtF6mpMpfMfN8CM6&insecure=0&sni=litelitvalitter.rooferz.surf#🇱🇹 Šiauliai
 hysteria2://vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
 hysteria2://vpnJey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
+hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🇳🇱 Dronten
+hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#🇩🇪 Frankfurt am Main
 hysteria2://a35c508f-4d5d-4531-842e-6e9d43c762c0@bl1.nexfile.net:4444?insecure=0&obfs=&obfs-password=&security=tls&sni=bl1.nexfile.net#🇧🇾 Minsk
 hysteria2://VPNJEy@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
 hysteria2://VPNJey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
-hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?security=tls&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3&insecure=0&sni=hy2.aspidnet.xyz#🇳🇱 Dronten
-hysteria2://Telegram:vpnjey@179.61.138.145:36264?security=tls&obfs=salamander&obfs-password=Telegram@vpnjey&insecure=0&sni=de2.jey.cc.cd#🇩🇪 Frankfurt am Main
+hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
+hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
 hysteria2://Telegram:vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
-hy2://linlin-2026@3.106.35.101:36712?auth=linlin-2026&insecure=1&sni=3.106.35.101#🇦🇺 Sydney
-hysteria2://8294f130408299df8cab08c80bf6f819@24.233.8.109:443/?insecure=1&obfs=salamander&obfs-password=c8827ab99e316c5bd414e21afa915ddf&sni=www.bing.com#🇺🇸 El Segundo
 hysteria2://VPNJey@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
 hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
-hysteria2://VPNJEy@[2a0f:5707:aaf1:11a6::1]:36264/?insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey&sni=de2.jey.cc.cd#🇩🇪 Frankfurt am Main
-hysteria2://VPNJEY@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main
-hysteria2://Telegram-vpnjey@179.61.138.145:36264?sni=de2.jey.cc.cd&insecure=1&obfs=salamander&obfs-password=Telegram@vpnjey#🇩🇪 Frankfurt am Main

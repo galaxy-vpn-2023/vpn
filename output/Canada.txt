@@ -1,14 +1,4 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?type=tcp&headerType=none&security=tls&fp=chrome&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.152:443?security=tls&sni=learn.connectingpeoplewithgreatjobs.com&type=tcp#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&headerType=none&type=tcp&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?fp=chrome&sni=resources.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
 ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443#🇨🇦 Montreal
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQbUNxSzk4V3FoU0M=@134.195.198.163:443?type=tcp#🇨🇦 Montreal
-vless://ca52e2b6-fb9f-4dac-b6dc-49da9923f251@209.200.246.148:443?encryption=none&flow=xtls-rprx-vision&fp=random&pbk=uTmb-ytXsx8p0fkBz7A76SHpWk7_oVutIA4LGTE8BQk&security=reality&sid=f98843107912e782&sni=www.cloudflare.com&type=raw#🇨🇦 Toronto
-vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?encryption=none&security=tls&sni=kuruish.org&packetEncoding=xudp#🇨🇦 Montreal
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
