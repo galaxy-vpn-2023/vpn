@@ -1,3 +1,1 @@
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@66.163.118.251:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=resources.discovergreatjobsandadvanceyourcareer.com#🇪🇸 Madrid
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@79.127.139.242:19999#🇪🇸 Madrid
-ss://YWVzLTI1Ni1nY206WlJwZ2FCZUd4dEVOSVhndmhwa1pCS3o5R25XUlMyZFljeDlPK2EyaXdOND0=@167.17.71.167:19999#🇪🇸 Madrid
+vless://7fd0e817-7b9c-4d12-9a24-18853c2ad35c@208.76.223.30:40118?security=reality&encryption=none&pbk=NpgXDQ6jl_HGPdHAHFeiBl5Ym7bywxmw_EYovmFjVQs&headerType=none&fp=firefox&type=tcp&sni=aparat.com&sid=6115f6a9eb8467c6#🇪🇸 Madrid
