@@ -1,3 +1,11 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com&path=/#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com&fp=chrome#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@51.79.49.116:8882#🇨🇦 Montreal
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?sni=connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+vmess://ewogICJhZGQiOiAiMTM0LjE5NS4xOTYuMjExIiwKICAiYWlkIjogIjAiLAogICJhbHBuIjogIiIsCiAgImZwIjogIiIsCiAgImhvc3QiOiAiIiwKICAiaWQiOiAiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwKICAiaW5zZWN1cmUiOiAiMCIsCiAgIm5ldCI6ICJ0Y3AiLAogICJwYXRoIjogIiIsCiAgInBjcyI6ICIiLAogICJwb3J0IjogIjE4MDAwIiwKICAicHMiOiAi8J+HqPCfh6YgVG9yb250byIsCiAgInNjeSI6ICJhdXRvIiwKICAic25pIjogIjEzNC4xOTUuMTk2LjIxMSIsCiAgInRscyI6ICIiLAogICJ0eXBlIjogIm5vbmUiLAogICJ2IjogIjIiLAogICJ2Y24iOiAiIgp9
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#🇨🇦 Montreal
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
 ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+ss://YWVzLTI1Ni1nY206aXR6dnBuQDMyMQ==@184.107.106.77:8388#🇨🇦 Montreal
