@@ -1,7 +1,11 @@
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.201:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=resources.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.93:443?security=tls&sni=connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
 trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.74:443?security=tls&sni=api.connectingpeoplewithgreatjobs.com&fp=chrome#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.48:443?security=tls&insecure=0&headerType=none&fp=chrome&type=tcp&allowInsecure=0&sni=courses.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.89:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=www.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.85:443?security=tls&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=cdn.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+trojan://0ab6c98dae3b48e8b9c4a776b6c9c19a@216.152.147.79:443?security=tls&sni=blog.connectingpeoplewithgreatjobs.com#🇨🇦 Toronto
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@149.22.95.183:443#🇨🇦 Vancouver
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@kuruish.org:443?security=tls&encryption=none&insecure=0&host=kuruish.org&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#🇨🇦 Montreal
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.12.127:445#🇨🇦 Beauharnois
+vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443/?type=tcp&encryption=none&flow=&security=tls&sni=kuruish.org&fp=chrome#🇨🇦 Montreal
 vless://03fcc618-b93d-6796-6aed-8a38c975d581@66.163.113.9:443?security=tls&encryption=none&insecure=0&headerType=none&type=tcp&allowInsecure=0&sni=kuruish.org#🇨🇦 Montreal
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@51.222.141.125:445#🇨🇦 Montreal
+vless://22649b54-4b92-496d-a3cd-4412f44672c8@66.81.247.250:443?encryption=none&fp=chrome&path=%2F&pcs=FE03B1C06FBCA6E5F22CD34A019586E465F3F4A8445C10D664160F6CE82CDACF&security=tls&sni=RAyan07-DIhd4iyi-v3.raYAn-07.WorkeRs.DeV&type=ws#🇨🇦 Toronto
